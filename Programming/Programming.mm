@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1366784347134" ID="ID_1726472125" MODIFIED="1381639053554" TEXT="Programming">
+<node CREATED="1366784347134" ID="ID_1726472125" MODIFIED="1454026692235" TEXT="Programming">
 <node CREATED="1366352841940" ID="ID_887173082" MODIFIED="1381537266757" POSITION="left" TEXT="Link">
 <node CREATED="1366352857948" ID="ID_1298783630" LINK="../Diary/Diary.mm" MODIFIED="1366352867334" TEXT="Diary"/>
 <node CREATED="1381537268721" ID="ID_1214684718" LINK="../Activities_2/Activities_2.mm" MODIFIED="1381537274833" TEXT="Activities_2"/>
@@ -113,9 +113,9 @@
 <node CREATED="1381537041217" ID="ID_644842097" MODIFIED="1381537041760" TEXT="5"/>
 <node CREATED="1381537042001" ID="ID_982033134" MODIFIED="1381537042544" TEXT="6"/>
 </node>
-<node CREATED="1344470711375" FOLDED="true" ID="ID_417290346" MODIFIED="1453901253563" POSITION="right" TEXT="LOG">
+<node CREATED="1344470711375" FOLDED="true" ID="ID_417290346" MODIFIED="1454051583078" POSITION="right" TEXT="LOG">
 <node CREATED="1344477668703" ID="ID_7571798" MODIFIED="1427242939515" TEXT="DONE"/>
-<node CREATED="1427242967727" FOLDED="true" ID="ID_829385151" MODIFIED="1428229780947" TEXT="D-1">
+<node CREATED="1427242967727" FOLDED="true" ID="ID_829385151" MODIFIED="1454051583074" TEXT="D-1">
 <icon BUILTIN="stop-sign"/>
 <node CREATED="1427242969830" FOLDED="true" ID="ID_129853618" MODIFIED="1428229771776" TEXT="FileZilla">
 <node CREATED="1427242973078" ID="ID_1610989402" MODIFIED="1427243001507" TEXT="=&gt; add &quot;gitignore&quot;-equivalent feature"/>
@@ -145,9 +145,9 @@
 </node>
 </node>
 </node>
-<node CREATED="1403578595143" FOLDED="true" ID="ID_20826003" MODIFIED="1428036782104" TEXT="v-1.0">
+<node CREATED="1403578595143" FOLDED="true" ID="ID_20826003" MODIFIED="1454051549240" TEXT="v-1.0">
 <node CREATED="1427243028950" ID="ID_1492867810" MODIFIED="1427243030360" TEXT=" 15/03/25"/>
-<node COLOR="#669900" CREATED="1401600740073" FOLDED="true" HGAP="23" ID="ID_1336135652" MODIFIED="1428036782104" TEXT="steps" VSHIFT="3">
+<node COLOR="#669900" CREATED="1401600740073" FOLDED="true" HGAP="23" ID="ID_1336135652" MODIFIED="1454051549239" TEXT="steps" VSHIFT="3">
 <node CREATED="1401588724075" FOLDED="true" ID="ID_1058616394" MODIFIED="1427694045743" TEXT="1">
 <icon BUILTIN="button_ok"/>
 <node CREATED="1427243169270" FOLDED="true" ID="ID_1092421867" MODIFIED="1427694045736" TEXT="MSYS">
@@ -402,9 +402,9 @@
 </node>
 <node CREATED="1427695869182" ID="ID_5228162" MODIFIED="1427695869198" TEXT=" 15/03/30"/>
 </node>
-<node CREATED="1427695560038" FOLDED="true" ID="ID_1200422633" MODIFIED="1428036782104" TEXT="5">
+<node CREATED="1427695560038" FOLDED="true" ID="ID_1200422633" MODIFIED="1454051549239" TEXT="5">
 <node CREATED="1427695562421" ID="ID_1343582174" LINK="https://wiki.filezilla-project.org/Compiling_FileZilla_3_under_Windows#Install_GnuTLS" MODIFIED="1427695566609" TEXT="Install GnuTLS"/>
-<node COLOR="#669900" CREATED="1401600740073" FOLDED="true" HGAP="23" ID="ID_1629341777" MODIFIED="1428036782104" TEXT="steps" VSHIFT="3">
+<node COLOR="#669900" CREATED="1401600740073" FOLDED="true" HGAP="23" ID="ID_1629341777" MODIFIED="1454051549238" TEXT="steps" VSHIFT="3">
 <node CREATED="1401588724075" FOLDED="true" ID="ID_632039562" MODIFIED="1428036760655" TEXT="1">
 <icon BUILTIN="button_ok"/>
 <node CREATED="1427695937550" ID="ID_1880680029" MODIFIED="1427695961066" TEXT="cd ~"/>
@@ -429,18 +429,18 @@
 <icon BUILTIN="button_ok"/>
 <node CREATED="1427696552839" ID="ID_1625228132" MODIFIED="1427696552839" TEXT="cd gnutls-3.3.13"/>
 </node>
-<node CREATED="1401588726267" FOLDED="true" ID="ID_36829936" MODIFIED="1428036782104" TEXT="4">
+<node CREATED="1401588726267" FOLDED="true" ID="ID_36829936" MODIFIED="1454051545344" TEXT="4">
 <icon BUILTIN="flag-blue"/>
 <node CREATED="1427695989438" ID="ID_1835191630" MODIFIED="1427696016610" TEXT="./configure --enable-static --disable-shared GMP_LIBS=&quot;-L/usr/local/lib -lgmp&quot; --disable-guile --disable-doc CPPFLAGS=&apos;-I/usr/local/include&apos; LDFLAGS=&apos;-L/usr/local/lib&apos;"/>
-<node COLOR="#990000" CREATED="1427697999344" FOLDED="true" ID="ID_1325322440" MODIFIED="1428036760655" TEXT="RESULT">
-<node CREATED="1427698003182" FOLDED="true" ID="ID_593153746" MODIFIED="1427930392834" TEXT="line">
+<node COLOR="#990000" CREATED="1427697999344" FOLDED="true" ID="ID_1325322440" MODIFIED="1454051511365" TEXT="RESULT">
+<node CREATED="1427698003182" FOLDED="true" ID="ID_593153746" MODIFIED="1454051511363" TEXT="line">
 <node CREATED="1427698005191" ID="ID_784342232" MODIFIED="1427698005603" TEXT="configure: summary of build options:    version:              3.3.13 shared 69:5:41   Host/Target system:   i686-pc-mingw32   Build system:         i686-pc-mingw32   Install prefix:       /usr/local   Compiler:             gcc   CFlags:               -g -O2   Library types:        Shared=no, Static=yes   Local libopts:        yes   Local libtasn1:       yes   Use nettle-mini:      no  configure: External hardware support:    /dev/crypto:          no   Hardware accel:       x86   Padlock accel:        yes   PKCS#11 support:      no   TPM support:          no  configure: Optional features: (note that included applications might not compile properly if features are disabled)    DTLS-SRTP support:    yes   ALPN support:         yes   OCSP support:         yes   Ses. ticket support:  yes   OpenPGP support:      yes   SRP support:          yes   PSK support:          yes   DHE support:          yes   ECDHE support:        yes   RSA-EXPORT support:   yes   Anon auth support:    yes   Heartbeat support:    yes   Unicode support:      yes   Self checks:          no   Non-SuiteB curves:    yes   FIPS140 mode:         no  configure: Optional applications:    crywrap app:  configure: Optional libraries:    Guile wrappers:       no   C++ library:          yes   DANE library:         no   OpenSSL compat:       yes  configure: System files:    Trust store pkcs11:   Trust store dir:   Trust store file:   Blacklist file:   CRL file:   Priority file:        /etc/gnutls/default-priorities   DNSSEC root key file: C:\Program Files\Unbound\root.key  configure: WARNING: *** *** The DNSSEC root key file in C:\Program Files\Unbound\root.key was not found. *** This file is needed for the verification of DNSSEC responses. *** Use the command: unbound-anchor -a &quot;C:\Program Files\Unbound\root.key&quot; *** to generate or update it. *** "/>
 </node>
 </node>
-<node COLOR="#ff0000" CREATED="1427698455127" FOLDED="true" ID="ID_753526872" MODIFIED="1427931378302" TEXT="PROB">
+<node COLOR="#ff0000" CREATED="1427698455127" FOLDED="true" ID="ID_753526872" MODIFIED="1454051545344" TEXT="PROB">
 <icon BUILTIN="button_ok"/>
 <node CREATED="1427698466311" ID="ID_255560844" MODIFIED="1427698466788" TEXT="$ unbound-anchor -a &quot;C:\Program Files\Unbound\root.key&quot; sh: unbound-anchor: command not found"/>
-<node CREATED="1427698470783" FOLDED="true" ID="ID_100513329" MODIFIED="1427931378301" TEXT="TRY">
+<node CREATED="1427698470783" FOLDED="true" ID="ID_100513329" MODIFIED="1454051545343" TEXT="TRY">
 <icon BUILTIN="button_ok"/>
 <node CREATED="1427698482534" FOLDED="true" ID="ID_22112714" MODIFIED="1427931378183" TEXT="install">
 <node CREATED="1427698484354" ID="ID_1623291537" LINK="https://unbound.net/download.html" MODIFIED="1427698489373" TEXT="=&gt; Unbound"/>
@@ -471,13 +471,13 @@
 <icon BUILTIN="button_ok"/>
 <node CREATED="1427698956463" ID="ID_956939962" MODIFIED="1427698958180" TEXT="cd unbound-1.5.3"/>
 </node>
-<node CREATED="1427698959903" FOLDED="true" ID="ID_1415536863" MODIFIED="1427931378299" TEXT="3-2">
+<node CREATED="1427698959903" FOLDED="true" ID="ID_1415536863" MODIFIED="1454051545342" TEXT="3-2">
 <node CREATED="1427698923624" ID="ID_1355754298" MODIFIED="1427698923624" TEXT="./configure"/>
-<node COLOR="#ff0000" CREATED="1427699555159" FOLDED="true" ID="ID_738094285" MODIFIED="1427931378298" TEXT="PROB">
+<node COLOR="#ff0000" CREATED="1427699555159" FOLDED="true" ID="ID_738094285" MODIFIED="1454051542929" TEXT="PROB">
 <node CREATED="1427699580760" FOLDED="true" ID="ID_540685378" MODIFIED="1427931378194" TEXT="line">
 <node CREATED="1427699584310" ID="ID_1323920959" MODIFIED="1427699584741" TEXT="checking for SSL... configure: error: Cannot find the SSL libraries in /usr/local/ssl /usr/lib/ssl /usr/ssl /usr/pkg /usr/local /opt/local /usr/sfw /usr"/>
 </node>
-<node CREATED="1427699587392" FOLDED="true" ID="ID_1210335690" MODIFIED="1427931378228" TEXT="TRY">
+<node CREATED="1427699587392" FOLDED="true" ID="ID_1210335690" MODIFIED="1454051525591" TEXT="TRY">
 <icon BUILTIN="idea"/>
 <node CREATED="1427699589999" ID="ID_1368243063" MODIFIED="1427699593723" TEXT="install openssl"/>
 <node CREATED="1427699594367" ID="ID_369960295" MODIFIED="1427699595332" TEXT="REF"/>
@@ -506,13 +506,13 @@
 </node>
 </node>
 </node>
-<node CREATED="1427786246204" FOLDED="true" ID="ID_182449717" MODIFIED="1427931378226" TEXT="6">
+<node CREATED="1427786246204" FOLDED="true" ID="ID_182449717" MODIFIED="1454051525590" TEXT="6">
 <icon BUILTIN="button_ok"/>
 <node CREATED="1427786293614" ID="ID_916679746" MODIFIED="1427786294100" TEXT="make &amp;&amp; make install"/>
-<node COLOR="#ff0000" CREATED="1427787969232" FOLDED="true" ID="ID_1074501516" MODIFIED="1427931378225" TEXT="PROB">
+<node COLOR="#ff0000" CREATED="1427787969232" FOLDED="true" ID="ID_1074501516" MODIFIED="1454051525589" TEXT="PROB">
 <icon BUILTIN="idea"/>
 <node CREATED="1427788010927" ID="ID_309155770" MODIFIED="1427788140595" TEXT=" 15/03/31"/>
-<node CREATED="1427787972424" FOLDED="true" ID="ID_1801603487" MODIFIED="1427931378203" TEXT="line">
+<node CREATED="1427787972424" FOLDED="true" ID="ID_1801603487" MODIFIED="1454051519188" TEXT="line">
 <node CREATED="1427787973953" ID="ID_591305989" MODIFIED="1427787974412" TEXT="make[2]: Leaving directory `/home/kbuchi/openssl-1.0.1m/test&apos; gcc -I.. -I../include  -D_WINDLL -DOPENSSL_PIC -DOPENSSL_THREADS -D_MT -DDSO_WI SM -DBSAES_ASM -DWHIRLPOOL_ASM -DGHASH_ASM   -c -o ideatest.o ideatest.c make[2]: Entering directory `/home/kbuchi/openssl-1.0.1m/test&apos; C:/msys/mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86 collect2.exe: error: ld returned 1 exit status ../Makefile.shared:308: recipe for target `link_app.cygwin&apos; failed make[2]: *** [link_app.cygwin] Error 1 make[2]: Leaving directory `/home/kbuchi/openssl-1.0.1m/test&apos; Makefile:403: recipe for target `ideatest.exe&apos; failed make[1]: *** [ideatest.exe] Error 2 make[1]: Leaving directory `/home/kbuchi/openssl-1.0.1m/test&apos; Makefile:286: recipe for target `build_tests&apos; failed make: *** [build_tests] Error 1"/>
 </node>
 <node CREATED="1427787991041" FOLDED="true" ID="ID_984479731" MODIFIED="1427931378206" TEXT="TRY">
@@ -525,7 +525,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1427788195369" FOLDED="true" ID="ID_261738091" MODIFIED="1427931378224" TEXT="TRY">
+<node CREATED="1427788195369" FOLDED="true" ID="ID_261738091" MODIFIED="1454051525587" TEXT="TRY">
 <icon BUILTIN="idea"/>
 <node CREATED="1427788197744" ID="ID_186144133" MODIFIED="1427788198238" TEXT="openssl-1.0.0r"/>
 <node CREATED="1427788436136" FOLDED="true" ID="ID_1311622325" MODIFIED="1427931378207" TEXT="1">
@@ -540,12 +540,12 @@
 <icon BUILTIN="button_ok"/>
 <node CREATED="1427786247774" ID="ID_312002518" MODIFIED="1427786248296" TEXT="make depend"/>
 </node>
-<node CREATED="1427788438976" FOLDED="true" ID="ID_106297268" MODIFIED="1427931378221" TEXT="4">
+<node CREATED="1427788438976" FOLDED="true" ID="ID_106297268" MODIFIED="1454051524653" TEXT="4">
 <icon BUILTIN="button_ok"/>
 <node CREATED="1427788677936" ID="ID_663998638" MODIFIED="1427788680428" TEXT="make"/>
-<node COLOR="#ff0000" CREATED="1427789336726" FOLDED="true" ID="ID_392360795" MODIFIED="1427931378220" TEXT="PROB">
+<node COLOR="#ff0000" CREATED="1427789336726" FOLDED="true" ID="ID_392360795" MODIFIED="1454051524652" TEXT="PROB">
 <icon BUILTIN="idea"/>
-<node CREATED="1427789348829" FOLDED="true" ID="ID_1529528246" MODIFIED="1427931378210" TEXT="line">
+<node CREATED="1427789348829" FOLDED="true" ID="ID_1529528246" MODIFIED="1454051524651" TEXT="line">
 <node CREATED="1427789350435" ID="ID_226888329" MODIFIED="1427789413189" TEXT="make[2]: Entering directory `/home/kbuchi/openssl-1.0.0r/test&apos;&#xa;C:/msys/mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-crt0_c.o):crt0_c.c:(.text.startup+0x25): undefined reference to `WinMain&apos;&#xa;collect2.exe: error: ld returned 1 exit status&#xa;../Makefile.shared:308: recipe for target `link_app.cygwin&apos; failed&#xa;make[2]: *** [link_app.cygwin] Error 1&#xa;make[2]: Leaving directory `/home/kbuchi/openssl-1.0.0r/test&apos;&#xa;Makefile:368: recipe for target `ideatest.exe&apos; failed&#xa;make[1]: *** [ideatest.exe] Error 2&#xa;make[1]: Leaving directory `/home/kbuchi/openssl-1.0.0r/test&apos;&#xa;Makefile:255: recipe for target `build_tests&apos; failed&#xa;make: *** [build_tests] Error 1"/>
 </node>
 <node CREATED="1427789576700" FOLDED="true" ID="ID_617249972" MODIFIED="1427931378212" TEXT="REF">
@@ -583,11 +583,11 @@
 </node>
 </node>
 </node>
-<node CREATED="1427796697864" FOLDED="true" ID="ID_1745219627" MODIFIED="1427931378223" TEXT="5">
+<node CREATED="1427796697864" FOLDED="true" ID="ID_1745219627" MODIFIED="1454051525586" TEXT="5">
 <icon BUILTIN="button_ok"/>
 <node CREATED="1427796699800" ID="ID_518271784" MODIFIED="1427796702220" TEXT="make install"/>
-<node CREATED="1427798140144" FOLDED="true" ID="ID_1824289296" MODIFIED="1427931378222" TEXT="RESULT">
-<node CREATED="1427798142602" FOLDED="true" ID="ID_926946817" MODIFIED="1427931378221" TEXT="line">
+<node CREATED="1427798140144" FOLDED="true" ID="ID_1824289296" MODIFIED="1454051525585" TEXT="RESULT">
+<node CREATED="1427798142602" FOLDED="true" ID="ID_926946817" MODIFIED="1454051525584" TEXT="line">
 <node CREATED="1427798144145" ID="ID_1288289024" MODIFIED="1427798145155" TEXT="make[1]: Leaving directory `/home/kbuchi/openssl-1.0.1m/dist/lib&apos; OpenSSL shared libraries have been installed in:   /home/kbuchi/openssl-1.0.1m/dist  If this directory is not in a standard system path for dynamic/shared libraries, then you will have problems linking and executing applications that use OpenSSL libraries UNLESS:  * you link with static (archive) libraries.  If you are truly   paranoid about security, you should use static libraries. * you use the GNU libtool code during linking   (http://www.gnu.org/software/libtool/libtool.html) * you use pkg-config during linking (this requires that   PKG_CONFIG_PATH includes the path to the OpenSSL shared   library directory), and make use of -R or -rpath.   (http://www.freedesktop.org/software/pkgconfig/) * you specify the system-wide link path via a command such   as crle(1) on Solaris systems. * you add the OpenSSL shared library directory to /etc/ld.so.conf   and run ldconfig(8) on Linux systems. * you define the LD_LIBRARY_PATH, LIBPATH, SHLIB_PATH (HP),   DYLD_LIBRARY_PATH (MacOS X) or PATH (Cygwin and DJGPP)   environment variable and add the OpenSSL shared library   directory to it.  One common tool to check the dynamic dependencies of an executable or dynamic library is ldd(1) on most UNIX systems.  See any operating system documentation and manpages about shared libraries for your version of UNIX.  The following manpages may be helpful: ld(1), ld.so(1), ld.so.1(1) [Solaris], dld.sl(1) [HP], ldd(1), crle(1) [Solaris], pldd(1) [Solaris], ldconfig(8) [Linux], chatr(1) [HP]. cp libcrypto.pc /home/kbuchi/openssl-1.0.1m/dist/lib/pkgconfig chmod 644 /home/kbuchi/openssl-1.0.1m/dist/lib/pkgconfig/libcrypto.pc cp libssl.pc /home/kbuchi/openssl-1.0.1m/dist/lib/pkgconfig chmod 644 /home/kbuchi/openssl-1.0.1m/dist/lib/pkgconfig/libssl.pc cp openssl.pc /home/kbuchi/openssl-1.0.1m/dist/lib/pkgconfig chmod 644 /home/kbuchi/openssl-1.0.1m/dist/lib/pkgconfig/openssl.pc "/>
 </node>
 </node>
@@ -596,7 +596,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1427800323011" FOLDED="true" ID="ID_292566964" MODIFIED="1427931378297" TEXT="TRY">
+<node CREATED="1427800323011" FOLDED="true" ID="ID_292566964" MODIFIED="1454051542928" TEXT="TRY">
 <node CREATED="1427800331962" ID="ID_954518838" MODIFIED="1427800333304" TEXT=" 15/03/31"/>
 <node CREATED="1427800324755" ID="ID_1858783621" MODIFIED="1427800328479" TEXT="=&gt; re-configure"/>
 <node COLOR="#ff0000" CREATED="1427800422993" FOLDED="true" ID="ID_409416193" MODIFIED="1427931378240" TEXT="PROB">
@@ -641,7 +641,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#ff0000" CREATED="1427803852002" FOLDED="true" ID="ID_971875077" MODIFIED="1427931378296" TEXT="PROB">
+<node COLOR="#ff0000" CREATED="1427803852002" FOLDED="true" ID="ID_971875077" MODIFIED="1454051542927" TEXT="PROB">
 <icon BUILTIN="button_ok"/>
 <node CREATED="1427803856786" FOLDED="true" ID="ID_1671220791" MODIFIED="1427931378241" TEXT="line">
 <node CREATED="1427803858354" ID="ID_1810866721" MODIFIED="1427803858858" TEXT="checking whether sk_SSL_COMP_pop_free is declared... yes checking for EVP_PKEY_set_type_str... yes checking for EC_KEY_new... yes checking if GOST works... no checking for ECDSA_sign... yes checking for SHA384_Init... yes checking whether NID_X9_62_prime256v1 is declared... yes checking whether NID_secp384r1 is declared... yes checking if openssl supports SHA2 and ECDSA with EVP... yes checking for libexpat... configure: error: Could not find libexpat, expat.h "/>
@@ -706,13 +706,13 @@
 </node>
 </node>
 </node>
-<node CREATED="1427844935113" FOLDED="true" ID="ID_1079903992" MODIFIED="1427931378293" TEXT="TRY">
+<node CREATED="1427844935113" FOLDED="true" ID="ID_1079903992" MODIFIED="1454051537620" TEXT="TRY">
 <node CREATED="1427844937555" ID="ID_1965268020" MODIFIED="1427844940708" TEXT="re-configure"/>
 <node CREATED="1427844960840" FOLDED="true" ID="ID_1838543076" MODIFIED="1427931378254" TEXT="1">
 <icon BUILTIN="button_ok"/>
 <node CREATED="1427698956463" ID="ID_43640952" MODIFIED="1427844968849" TEXT="cd unbound-1.5.3"/>
 </node>
-<node CREATED="1427844961800" FOLDED="true" ID="ID_1414544653" MODIFIED="1427931378264" TEXT="2">
+<node CREATED="1427844961800" FOLDED="true" ID="ID_1414544653" MODIFIED="1454051528164" TEXT="2">
 <icon BUILTIN="flag-blue"/>
 <node CREATED="1427802778777" FOLDED="true" ID="ID_1279866711" MODIFIED="1427931378255" TEXT="./configure --with-ssl=/home/kbuchi/openssl-1.0.1m/dist">
 <node CREATED="1427803592338" ID="ID_1542073652" MODIFIED="1427803597400" TEXT="=&gt; no &quot;lib&quot;"/>
@@ -723,23 +723,23 @@
 </node>
 <node CREATED="1427848800937" ID="ID_475404537" MODIFIED="1427848840942" TEXT="=&gt; window: &quot;conftest&quot;, &quot;&#x6b63;&#x3057;&#x304f;&#x8d77;&#x52d5;&#x3067;&#x304d;&#x307e;&#x305b;&#x3093;&#x3067;&#x3057;&#x305f;&quot;(?)"/>
 </node>
-<node COLOR="#990000" CREATED="1427848914776" FOLDED="true" ID="ID_115925851" MODIFIED="1427931378263" TEXT="RESULT">
+<node COLOR="#990000" CREATED="1427848914776" FOLDED="true" ID="ID_115925851" MODIFIED="1454051528163" TEXT="RESULT">
 <node CREATED="1427848917129" FOLDED="true" ID="ID_5330808" MODIFIED="1427931378257" TEXT="1">
 <node CREATED="1427848917509" FOLDED="true" ID="ID_813679453" MODIFIED="1427931378256" TEXT="libexpat">
 <node CREATED="1427848920227" ID="ID_1671170578" MODIFIED="1427848922006" TEXT="=&gt; found"/>
 </node>
 </node>
-<node CREATED="1427869216498" FOLDED="true" ID="ID_1451978754" MODIFIED="1427931378262" TEXT="2">
-<node CREATED="1427869218094" FOLDED="true" ID="ID_1021522818" MODIFIED="1427931378257" TEXT="line">
+<node CREATED="1427869216498" FOLDED="true" ID="ID_1451978754" MODIFIED="1454051528162" TEXT="2">
+<node CREATED="1427869218094" FOLDED="true" ID="ID_1021522818" MODIFIED="1454051528161" TEXT="line">
 <node CREATED="1427869219958" ID="ID_1723324866" MODIFIED="1427869221472" TEXT="checking for ctime_r... no checking if make supports $&lt; with implicit rule in scope... yes configure: Stripping extension flags... configure: creating ./config.status config.status: creating Makefile config.status: creating doc/example.conf config.status: creating doc/libunbound.3 config.status: creating doc/unbound.8 config.status: creating doc/unbound-anchor.8 config.status: creating doc/unbound-checkconf.8 config.status: creating doc/unbound.conf.5 config.status: creating doc/unbound-control.8 config.status: creating doc/unbound-host.1 config.status: creating smallapp/unbound-control-setup.sh config.status: creating dnstap/dnstap_config.h config.status: creating config.h config.status: executing libtool commands"/>
 </node>
 </node>
 </node>
 </node>
-<node CREATED="1427869231343" FOLDED="true" ID="ID_1036025415" MODIFIED="1427931378291" TEXT="3">
+<node CREATED="1427869231343" FOLDED="true" ID="ID_1036025415" MODIFIED="1454051537619" TEXT="3">
 <icon BUILTIN="button_ok"/>
 <node CREATED="1427869232615" ID="ID_1569132532" MODIFIED="1427869233699" TEXT="make"/>
-<node COLOR="#ff0000" CREATED="1427871450590" FOLDED="true" ID="ID_2141446" MODIFIED="1427931378290" TEXT="ERROR">
+<node COLOR="#ff0000" CREATED="1427871450590" FOLDED="true" ID="ID_2141446" MODIFIED="1454051537619" TEXT="ERROR">
 <node CREATED="1427871454254" FOLDED="true" ID="ID_552332511" MODIFIED="1427931378264" TEXT="line">
 <node CREATED="1427871456222" ID="ID_10739826" MODIFIED="1427871457370" TEXT="libtool: compile:  gcc -I. -I/home/kbuchi/openssl-1.0.1m/dist/include -I/usr/local/include -g -O2 -flto -c libunbound/libworker.c  -DDLL_EXPORT -DPIC -o .libs/libworker.o libtool: compile:  gcc -I. -I/home/kbuchi/openssl-1.0.1m/dist/include -I/usr/local/include -g -O2 -flto -c libunbound/libworker.c -o libworker.o &gt;/dev/null 2&gt;&amp;1 ./libtool --tag=CC --mode=link gcc -R/home/kbuchi/openssl-1.0.1m/dist/lib -I.  -I/home/kbuchi/openssl-1.0.1m/dist/include -I/usr/local/include -g -O2 -flto -L/home/kbuchi/openssl-1.0.1m/dist/lib -L/usr/local/lib  -version-info 5:6:3 -no-undefined -export-symbols ./libunbound/ubsyms.def -o libunbound .la context.lo libunbound.lo libworker.lo dns.lo infra.lo rrset.lo dname.lo msgencode.lo  msgparse.lo msgreply.lo packed_rrset.lo iterator.lo iter_delegpt.lo  iter_donotq.lo iter_fwd.lo iter_hints.lo iter_priv.lo iter_resptype.lo  iter_scrub.lo iter_utils.lo localzone.lo mesh.lo modstack.lo  outboun d_list.lo alloc.lo config_file.lo configlexer.lo configparser.lo  fptr_wlist.lo locks.lo log.lo mini_event.lo module.lo net_help.lo  random.lo rbtree.lo regional.lo rtt.lo dnstree.lo lookup3.lo lruhash.lo  slabhash.lo timehist.lo tube.lo winsock_event.lo autotrust.lo val_anchor.lo  validator.lo val_ kcache.lo val_kentry.lo val_neg.lo val_nsec3.lo val_nsec.lo  val_secalgo.lo val_sigcrypt.lo val_utils.lo dns64.lo     netevent.lo listen_dnsport.lo  outside_network.lo keyraw.lo sbuffer.lo wire2str.lo parse.lo parseutil.lo rrdef.lo  str2wire.lo strptime.lo inet_aton.lo strlcat.lo strlcpy.lo gmtime_r .lo arc4random.lo arc4random_uniform.lo explicit_bzero.lo arc4_lock.lo getentropy_win.lo ctime_r.lo -rpath /usr/local/lib -lssl -lcrypto -lws2_32 -liphlpapi libtool: link: /mingw64/mingw64/bin//nm -B  .libs/context.o .libs/libunbound.o .libs/libworker.o .libs/dns.o .libs/infra.o .libs/rrset.o .libs/dname.o .libs/msgencode.o .libs/msgparse.o .libs/msgreply.o .libs/packed_rrset.o .libs/iterator.o .libs/iter_delegpt.o .libs/iter_donotq.o .libs/iter_fwd.o . libs/iter_hints.o .libs/iter_priv.o .libs/iter_resptype.o .libs/iter_scrub.o .libs/iter_utils.o .libs/localzone.o .libs/mesh.o .libs/modstack.o .libs/outbound_list.o .libs/alloc.o .libs/config_file.o .libs/configlexer.o .libs/configparser.o .libs/fptr_wlist.o .libs/locks.o .libs/log.o .libs/mini_eve nt.o .libs/module.o .libs/net_help.o .libs/random.o .libs/rbtree.o .libs/regional.o .libs/rtt.o .libs/dnstree.o .libs/lookup3.o .libs/lruhash.o .libs/slabhash.o .libs/timehist.o .libs/tube.o .libs/winsock_event.o .libs/autotrust.o .libs/val_anchor.o .libs/validator.o .libs/val_kcache.o .libs/val_ken try.o .libs/val_neg.o .libs/val_nsec3.o .libs/val_nsec.o .libs/val_secalgo.o .libs/val_sigcrypt.o .libs/val_utils.o .libs/dns64.o .libs/netevent.o .libs/listen_dnsport.o .libs/outside_network.o .libs/keyraw.o .libs/sbuffer.o .libs/wire2str.o .libs/parse.o .libs/parseutil.o .libs/rrdef.o .libs/str2wi re.o .libs/strptime.o .libs/inet_aton.o .libs/strlcat.o .libs/strlcpy.o .libs/gmtime_r.o .libs/arc4random.o .libs/arc4random_uniform.o .libs/explicit_bzero.o .libs/arc4_lock.o .libs/getentropy_win.o .libs/ctime_r.o   |  | /bin/sed -e &apos;/^[BCDGRS][ ]/s/.*[ ]\([^ ]*\)/\1 DATA/;s/^.*[ ]__nm__\([^ ]*\)[ ][^ ]*/\1 DATA/;/^I[ ]/d;/^[AITW][ ]/s/.* //&apos; | sort | uniq &gt; .libs/libunbound.exp ./libtool: eval: line 1098: syntax error near unexpected token `|&apos; ./libtool: eval: line 1098: `/mingw64/mingw64/bin//nm -B  .libs/context.o .libs/libunbound.o .libs/libworker.o .libs/dns.o .libs/infra.o .libs/rrset.o .libs/dname.o .libs/msgencode.o .libs/msgparse.o .libs/msgreply.o .libs/packed_rrset.o .libs/iterator.o .libs/iter_delegpt.o .libs/iter_donotq.o .lib s/iter_fwd.o .libs/iter_hints.o .libs/iter_priv.o .libs/iter_resptype.o .libs/iter_scrub.o .libs/iter_utils.o .libs/localzone.o .libs/mesh.o .libs/modstack.o .libs/outbound_list.o .libs/alloc.o .libs/config_file.o .libs/configlexer.o .libs/configparser.o .libs/fptr_wlist.o .libs/locks.o .libs/log.o .libs/mini_event.o .libs/module.o .libs/net_help.o .libs/random.o .libs/rbtree.o .libs/regional.o .libs/rtt.o .libs/dnstree.o .libs/lookup3.o .libs/lruhash.o .libs/slabhash.o .libs/timehist.o .libs/tube.o .libs/winsock_event.o .libs/autotrust.o .libs/val_anchor.o .libs/validator.o .libs/val_kcache.o  .libs/val_kentry.o .libs/val_neg.o .libs/val_nsec3.o .libs/val_nsec.o .libs/val_secalgo.o .libs/val_sigcrypt.o .libs/val_utils.o .libs/dns64.o .libs/netevent.o .libs/listen_dnsport.o .libs/outside_network.o .libs/keyraw.o .libs/sbuffer.o .libs/wire2str.o .libs/parse.o .libs/parseutil.o .libs/rrdef. o .libs/str2wire.o .libs/strptime.o .libs/inet_aton.o .libs/strlcat.o .libs/strlcpy.o .libs/gmtime_r.o .libs/arc4random.o .libs/arc4random_uniform.o .libs/explicit_bzero.o .libs/arc4_lock.o .libs/getentropy_win.o .libs/ctime_r.o   |  | /bin/sed -e &apos;/^[BCDGRS][ ]/s/.*[ ]\([^ ]*\)/\1 DATA/;s/^.*[ ]__n m__\([^ ]*\)[ ][^ ]*/\1 DATA/;/^I[ ]/d;/^[AITW][ ]/s/.* //&apos; | sort | uniq &gt; .libs/libunbound.exp&apos; Makefile:297: recipe for target `libunbound.la&apos; failed make: *** [libunbound.la] Error 1"/>
 </node>
@@ -748,22 +748,22 @@
 <node CREATED="1427871639796" ID="ID_280761583" LINK="http://stackoverflow.com/questions/23587972/libtool-error-during-linkage" MODIFIED="1427871642144" TEXT="QA"/>
 </node>
 </node>
-<node CREATED="1427872329742" FOLDED="true" ID="ID_1966362415" MODIFIED="1427931378289" TEXT="TRY">
+<node CREATED="1427872329742" FOLDED="true" ID="ID_1966362415" MODIFIED="1454051537618" TEXT="TRY">
 <node CREATED="1427872332328" ID="ID_1990080282" MODIFIED="1427872337180" TEXT="remove variable"/>
-<node COLOR="#990000" CREATED="1427872337543" FOLDED="true" ID="ID_903483026" MODIFIED="1427931378288" TEXT="RESULT">
-<node CREATED="1427872340919" FOLDED="true" ID="ID_624880487" MODIFIED="1427931378268" TEXT="1">
-<node CREATED="1427872342817" FOLDED="true" ID="ID_1921515368" MODIFIED="1427931378268" TEXT="line">
+<node COLOR="#990000" CREATED="1427872337543" FOLDED="true" ID="ID_903483026" MODIFIED="1454051537617" TEXT="RESULT">
+<node CREATED="1427872340919" FOLDED="true" ID="ID_624880487" MODIFIED="1454051529116" TEXT="1">
+<node CREATED="1427872342817" FOLDED="true" ID="ID_1921515368" MODIFIED="1454051529115" TEXT="line">
 <node CREATED="1427872344662" FOLDED="true" ID="ID_1042674390" MODIFIED="1427931378266" TEXT="1">
 <node CREATED="1427872345129" ID="ID_1494187454" MODIFIED="1427872347706" TEXT="./libtool --tag=CC --mode=link gcc -R/home/kbuchi/openssl-1.0.1m/dist/lib -I.  -I/home/kbuchi/openssl-1.0.1m/dist/include -I/usr/local/include -g -O2 -flto -L/home/kbuchi/openssl-1.0.1m/dist/lib -L/usr/local/lib  -version-info 5:6:3 -no-undefined -export-symbols ./libunbou .la context.lo libunbound.lo libworker.lo dns.lo infra.lo rrset.lo dname.lo msgencode.lo  msgparse.lo msgreply.lo packed_rrset.lo iterator.lo iter_delegpt.lo  iter_donotq.lo iter_fwd.lo iter_hints.lo iter_priv.lo iter_resptype.lo  iter_scrub.lo iter_utils.lo localzone.lo m d_list.lo alloc.lo config_file.lo configlexer.lo configparser.lo  fptr_wlist.lo locks.lo log.lo mini_event.lo module.lo net_help.lo  random.lo rbtree.lo regional.lo rtt.lo dnstree.lo lookup3.lo lruhash.lo  slabhash.lo timehist.lo tube.lo winsock_event.lo autotrust.lo val_a kcache.lo val_kentry.lo val_neg.lo val_nsec3.lo val_nsec.lo  val_secalgo.lo val_sigcrypt.lo val_utils.lo dns64.lo     netevent.lo listen_dnsport.lo  outside_network.lo keyraw.lo sbuffer.lo wire2str.lo parse.lo parseutil.lo rrdef.lo  str2wire.lo strptime.lo inet_aton.lo str .lo arc4random.lo arc4random_uniform.lo explicit_bzero.lo arc4_lock.lo getentropy_win.lo ctime_r.lo -rpath /usr/local/lib -lssl -lcrypto -lws2_32 -liphlpapi libtool: link: /mingw64/mingw64/bin//nm -B  .libs/context.o .libs/libunbound.o .libs/libworker.o .libs/dns.o .libs/infra.o .libs/rrset.o .libs/dname.o .libs/msgencode.o .libs/msgparse.o .libs/msgreply.o .libs/packed_rrset.o .libs/iterator.o .libs/iter_delegpt.o .libs/iter_ libs/iter_hints.o .libs/iter_priv.o .libs/iter_resptype.o .libs/iter_scrub.o .libs/iter_utils.o .libs/localzone.o .libs/mesh.o .libs/modstack.o .libs/outbound_list.o .libs/alloc.o .libs/config_file.o .libs/configlexer.o .libs/configparser.o .libs/fptr_wlist.o .libs/locks.o nt.o .libs/module.o .libs/net_help.o .libs/random.o .libs/rbtree.o .libs/regional.o .libs/rtt.o .libs/dnstree.o .libs/lookup3.o .libs/lruhash.o .libs/slabhash.o .libs/timehist.o .libs/tube.o .libs/winsock_event.o .libs/autotrust.o .libs/val_anchor.o .libs/validator.o .libs try.o .libs/val_neg.o .libs/val_nsec3.o .libs/val_nsec.o .libs/val_secalgo.o .libs/val_sigcrypt.o .libs/val_utils.o .libs/dns64.o .libs/netevent.o .libs/listen_dnsport.o .libs/outside_network.o .libs/keyraw.o .libs/sbuffer.o .libs/wire2str.o .libs/parse.o .libs/parseutil.o re.o .libs/strptime.o .libs/inet_aton.o .libs/strlcat.o .libs/strlcpy.o .libs/gmtime_r.o .libs/arc4random.o .libs/arc4random_uniform.o .libs/explicit_bzero.o .libs/arc4_lock.o .libs/getentropy_win.o .libs/ctime_r.o   | /bin/sed -e &apos;/^[BCDGRS][ ]/s/.*[ ]\([^ ]*\)/\1 DATA/;s  ]*/\1 DATA/;/^I[ ]/d;/^[AITW][ ]/s/.* //&apos; | sort | uniq &gt; .libs/libunbound.exp C:\msys\mingw64\mingw64\bin\nm.exe: .libs/context.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/libunbound.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/libworker.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/dns.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/infra.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/rrset.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/dname.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/msgencode.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/msgparse.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/msgreply.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/packed_rrset.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/iterator.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/iter_delegpt.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/iter_donotq.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/iter_fwd.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/iter_hints.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/iter_priv.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/iter_resptype.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/iter_scrub.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/iter_utils.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/localzone.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/mesh.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/modstack.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/outbound_list.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/alloc.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/config_file.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/configlexer.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/configparser.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/fptr_wlist.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/locks.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/log.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/mini_event.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/module.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/net_help.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/random.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/rbtree.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/regional.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/rtt.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/dnstree.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/lookup3.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/lruhash.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/slabhash.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/timehist.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/tube.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/winsock_event.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/autotrust.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/val_anchor.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/validator.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/val_kcache.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/val_kentry.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/val_neg.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/val_nsec3.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/val_nsec.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/val_secalgo.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/val_sigcrypt.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/val_utils.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/dns64.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/netevent.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/listen_dnsport.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/outside_network.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/keyraw.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/sbuffer.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/wire2str.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/parse.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/parseutil.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/rrdef.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/str2wire.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/strptime.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/inet_aton.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/strlcat.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/strlcpy.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/gmtime_r.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/arc4random.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/arc4random_uniform.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/explicit_bzero.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/arc4_lock.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/getentropy_win.o: plugin needed to handle lto object C:\msys\mingw64\mingw64\bin\nm.exe: .libs/ctime_r.o: plugin needed to handle lto object"/>
 </node>
-<node CREATED="1427872649953" FOLDED="true" ID="ID_1884477713" MODIFIED="1427931378267" TEXT="2">
+<node CREATED="1427872649953" FOLDED="true" ID="ID_1884477713" MODIFIED="1454051529113" TEXT="2">
 <node CREATED="1427872651596" ID="ID_265832086" MODIFIED="1427872654883" TEXT="libtool: link: ( cd &quot;.libs&quot; &amp;&amp; rm -f &quot;libunbound.la&quot; &amp;&amp; cp -pR &quot;../libunbound.la&quot; &quot;libunbound.la&quot; ) ./libtool --tag=CC --mode=link gcc  -R/home/kbuchi/openssl-1.0.1m/dist/lib -I.  -I/home/kbuchi/openssl-1.0.1m/dist/include -I/usr/local/include -g -O2 -flto -L/home/kbuchi/openssl-1.0.1m/dist/lib -L/usr/local/lib -o unbound.exe acl_list.lo cachedump.lo daemon.lo remote.lo stats.lo unbound.lo  worker .lo win_svc.lo w_inst.lo dns.lo infra.lo rrset.lo dname.lo msgencode.lo  msgparse.lo msgreply.lo packed_rrset.lo iterator.lo iter_delegpt.lo  iter_donotq.lo iter_fwd.lo iter_hints.lo iter_priv.lo iter_resptype.lo  iter_scrub.lo iter_utils.lo localzone.lo mesh.lo modstack.lo  outbound_list.lo alloc.l o config_file.lo configlexer.lo configparser.lo  fptr_wlist.lo locks.lo log.lo mini_event.lo module.lo net_help.lo  random.lo rbtree.lo regional.lo rtt.lo dnstree.lo lookup3.lo lruhash.lo  slabhash.lo timehist.lo tube.lo winsock_event.lo autotrust.lo val_anchor.lo  validator.lo val_kcache.lo val_ken try.lo val_neg.lo val_nsec3.lo val_nsec.lo  val_secalgo.lo val_sigcrypt.lo val_utils.lo dns64.lo     netevent.lo listen_dnsport.lo  outside_network.lo keyraw.lo sbuffer.lo wire2str.lo parse.lo parseutil.lo rrdef.lo  str2wire.lo  strptime.lo inet_aton.lo strlcat.lo strlcpy.lo gmtime_r.lo arc4random.l o arc4random_uniform.lo explicit_bzero.lo arc4_lock.lo getentropy_win.lo ctime_r.lo rsrc_unbound.o  -lssl -lcrypto -lws2_32 -liphlpapi libtool: link: gcc -I. -I/home/kbuchi/openssl-1.0.1m/dist/include -I/usr/local/include -g -O2 -flto -o .libs/unbound.exe .libs/acl_list.o .libs/cachedump.o .libs/daemon.o .libs/remote.o .libs/stats.o .libs/unbound.o .libs/worker.o .libs/win_svc.o .libs/w_inst.o .libs/dns.o .libs/infra.o .libs/rrset. o .libs/dname.o .libs/msgencode.o .libs/msgparse.o .libs/msgreply.o .libs/packed_rrset.o .libs/iterator.o .libs/iter_delegpt.o .libs/iter_donotq.o .libs/iter_fwd.o .libs/iter_hints.o .libs/iter_priv.o .libs/iter_resptype.o .libs/iter_scrub.o .libs/iter_utils.o .libs/localzone.o .libs/mesh.o .libs/mo dstack.o .libs/outbound_list.o .libs/alloc.o .libs/config_file.o .libs/configlexer.o .libs/configparser.o .libs/fptr_wlist.o .libs/locks.o .libs/log.o .libs/mini_event.o .libs/module.o .libs/net_help.o .libs/random.o .libs/rbtree.o .libs/regional.o .libs/rtt.o .libs/dnstree.o .libs/lookup3.o .libs/l ruhash.o .libs/slabhash.o .libs/timehist.o .libs/tube.o .libs/winsock_event.o .libs/autotrust.o .libs/val_anchor.o .libs/validator.o .libs/val_kcache.o .libs/val_kentry.o .libs/val_neg.o .libs/val_nsec3.o .libs/val_nsec.o .libs/val_secalgo.o .libs/val_sigcrypt.o .libs/val_utils.o .libs/dns64.o .libs /netevent.o .libs/listen_dnsport.o .libs/outside_network.o .libs/keyraw.o .libs/sbuffer.o .libs/wire2str.o .libs/parse.o .libs/parseutil.o .libs/rrdef.o .libs/str2wire.o .libs/strptime.o .libs/inet_aton.o .libs/strlcat.o .libs/strlcpy.o .libs/gmtime_r.o .libs/arc4random.o .libs/arc4random_uniform.o .libs/explicit_bzero.o .libs/arc4_lock.o .libs/getentropy_win.o .libs/ctime_r.o rsrc_unbound.o  -L/home/kbuchi/openssl-1.0.1m/dist/lib -L/usr/local/lib -lssl -lcrypto -lws2_32 -liphlpapi  -L/home/kbuchi/openssl-1.0.1m/dist/lib ./libtool --tag=CC --mode=compile gcc -I.  -I/home/kbuchi/openssl-1.0.1m/dist/include -I/usr/local/include -g -O2 -flto -o unbound-checkconf.lo -c smallapp/unbound-checkconf.c libtool: compile:  gcc -I. -I/home/kbuchi/openssl-1.0.1m/dist/include -I/usr/local/include -g -O2 -flto -c smallapp/unbound-checkconf.c  -DDLL_EXPORT -DPIC -o .libs/unbound-checkconf.o libtool: compile:  gcc -I. -I/home/kbuchi/openssl-1.0.1m/dist/include -I/usr/local/include -g -O2 -flto -c smallapp/unbound-checkconf.c -o unbound-checkconf.o &gt;/dev/null 2&gt;&amp;1 ./libtool --tag=CC --mode=compile gcc -I.  -I/home/kbuchi/openssl-1.0.1m/dist/include -I/usr/local/include -g -O2 -flto -o worker_cb.lo -c smallapp/worker_cb.c libtool: compile:  gcc -I. -I/home/kbuchi/openssl-1.0.1m/dist/include -I/usr/local/include -g -O2 -flto -c smallapp/worker_cb.c  -DDLL_EXPORT -DPIC -o .libs/worker_cb.o libtool: compile:  gcc -I. -I/home/kbuchi/openssl-1.0.1m/dist/include -I/usr/local/include -g -O2 -flto -c smallapp/worker_cb.c -o worker_cb.o &gt;/dev/null 2&gt;&amp;1 windres -I.  -I/home/kbuchi/openssl-1.0.1m/dist/include -I/usr/local/include winrc/rsrc_unbound_checkconf.rc rsrc_unbound_checkconf.o ./libtool --tag=CC --mode=link gcc  -R/home/kbuchi/openssl-1.0.1m/dist/lib -I.  -I/home/kbuchi/openssl-1.0.1m/dist/include -I/usr/local/include -g -O2 -flto -L/home/kbuchi/openssl-1.0.1m/dist/lib -L/usr/local/lib -o unbound-checkconf.exe unbound-checkconf.lo worker_cb.lo dns.lo infra.lo rrset.lo dna me.lo msgencode.lo  msgparse.lo msgreply.lo packed_rrset.lo iterator.lo iter_delegpt.lo  iter_donotq.lo iter_fwd.lo iter_hints.lo iter_priv.lo iter_resptype.lo  iter_scrub.lo iter_utils.lo localzone.lo mesh.lo modstack.lo  outbound_list.lo alloc.lo config_file.lo configlexer.lo configparser.lo  fptr _wlist.lo locks.lo log.lo mini_event.lo module.lo net_help.lo  random.lo rbtree.lo regional.lo rtt.lo dnstree.lo lookup3.lo lruhash.lo  slabhash.lo timehist.lo tube.lo winsock_event.lo autotrust.lo val_anchor.lo  validator.lo val_kcache.lo val_kentry.lo val_neg.lo val_nsec3.lo val_nsec.lo  val_secal go.lo val_sigcrypt.lo val_utils.lo dns64.lo     netevent.lo listen_dnsport.lo  outside_network.lo keyraw.lo sbuffer.lo wire2str.lo parse.lo parseutil.lo rrdef.lo  str2wire.lo  strptime.lo inet_aton.lo strlcat.lo strlcpy.lo gmtime_r.lo arc4random.lo arc4random_uniform.lo explicit_bzero.lo arc4_lock.l o getentropy_win.lo ctime_r.lo rsrc_unbound_checkconf.o  -lssl -lcrypto -lws2_32 -liphlpapi libtool: link: gcc -I. -I/home/kbuchi/openssl-1.0.1m/dist/include -I/usr/local/include -g -O2 -flto -o .libs/unbound-checkconf.exe .libs/unbound-checkconf.o .libs/worker_cb.o .libs/dns.o .libs/infra.o .libs/rrset.o .libs/dname.o .libs/msgencode.o .libs/msgparse.o .libs/msgreply.o .libs/packed_rrset. o .libs/iterator.o .libs/iter_delegpt.o .libs/iter_donotq.o .libs/iter_fwd.o .libs/iter_hints.o .libs/iter_priv.o .libs/iter_resptype.o .libs/iter_scrub.o .libs/iter_utils.o .libs/localzone.o .libs/mesh.o .libs/modstack.o .libs/outbound_list.o .libs/alloc.o .libs/config_file.o .libs/configlexer.o .l ibs/configparser.o .libs/fptr_wlist.o .libs/locks.o .libs/log.o .libs/mini_event.o .libs/module.o .libs/net_help.o .libs/random.o .libs/rbtree.o .libs/regional.o .libs/rtt.o .libs/dnstree.o .libs/lookup3.o .libs/lruhash.o .libs/slabhash.o .libs/timehist.o .libs/tube.o .libs/winsock_event.o .libs/aut otrust.o .libs/val_anchor.o .libs/validator.o .libs/val_kcache.o .libs/val_kentry.o .libs/val_neg.o .libs/val_nsec3.o .libs/val_nsec.o .libs/val_secalgo.o .libs/val_sigcrypt.o .libs/val_utils.o .libs/dns64.o .libs/netevent.o .libs/listen_dnsport.o .libs/outside_network.o .libs/keyraw.o .libs/sbuffer .o .libs/wire2str.o .libs/parse.o .libs/parseutil.o .libs/rrdef.o .libs/str2wire.o .libs/strptime.o .libs/inet_aton.o .libs/strlcat.o .libs/strlcpy.o .libs/gmtime_r.o .libs/arc4random.o .libs/arc4random_uniform.o .libs/explicit_bzero.o .libs/arc4_lock.o .libs/getentropy_win.o .libs/ctime_r.o rsrc_un bound_checkconf.o  -L/home/kbuchi/openssl-1.0.1m/dist/lib -L/usr/local/lib -lssl -lcrypto -lws2_32 -liphlpapi  -L/home/kbuchi/openssl-1.0.1m/dist/lib sed -e &apos;s/@&apos;&apos;UNBOUND_VERSION_MAJOR@/1/&apos; -e &apos;s/@&apos;&apos;UNBOUND_VERSION_MINOR@/5/&apos; -e &apos;s/@&apos;&apos;UNBOUND_VERSION_MICRO@/3/&apos; &lt; ./libunbound/unbound.h &gt; unbound.h ./libtool --tag=CC --mode=compile gcc -I.  -I/home/kbuchi/openssl-1.0.1m/dist/include -I/usr/local/include -g -O2 -flto -o unbound-host.lo -c smallapp/unbound-host.c libtool: compile:  gcc -I. -I/home/kbuchi/openssl-1.0.1m/dist/include -I/usr/local/include -g -O2 -flto -c smallapp/unbound-host.c  -DDLL_EXPORT -DPIC -o .libs/unbound-host.o libtool: compile:  gcc -I. -I/home/kbuchi/openssl-1.0.1m/dist/include -I/usr/local/include -g -O2 -flto -c smallapp/unbound-host.c -o unbound-host.o &gt;/dev/null 2&gt;&amp;1 windres -I.  -I/home/kbuchi/openssl-1.0.1m/dist/include -I/usr/local/include winrc/rsrc_unbound_host.rc rsrc_unbound_host.o ./libtool --tag=CC --mode=link gcc  -R/home/kbuchi/openssl-1.0.1m/dist/lib -I.  -I/home/kbuchi/openssl-1.0.1m/dist/include -I/usr/local/include -g -O2 -flto -L/home/kbuchi/openssl-1.0.1m/dist/lib -L/usr/local/lib -o unbound-host.exe unbound-host.lo keyraw.lo sbuffer.lo wire2str.lo parse.lo parseutil .lo rrdef.lo  str2wire.lo strptime.lo inet_aton.lo strlcat.lo strlcpy.lo gmtime_r.lo rsrc_unbound_host.o -L. -L.libs -lunbound -lcrypto -lws2_32 -liphlpapi libtool: link: gcc -I. -I/home/kbuchi/openssl-1.0.1m/dist/include -I/usr/local/include -g -O2 -flto -o .libs/unbound-host.exe .libs/unbound-host.o .libs/keyraw.o .libs/sbuffer.o .libs/wire2str.o .libs/parse.o .libs/parseutil.o .libs/rrdef.o .libs/str2wire.o .libs/strptime.o .libs/inet_aton.o .libs/s trlcat.o .libs/strlcpy.o .libs/gmtime_r.o rsrc_unbound_host.o  -L/home/kbuchi/openssl-1.0.1m/dist/lib -L/usr/local/lib -L. -L.libs /home/kbuchi/unbound-1.5.3/.libs/libunbound.dll.a -lssl -lcrypto -lws2_32 -liphlpapi  -L/usr/local/lib -L/home/kbuchi/openssl-1.0.1m/dist/lib ./libtool --tag=CC --mode=compile gcc -I.  -I/home/kbuchi/openssl-1.0.1m/dist/include -I/usr/local/include -g -O2 -flto -o unbound-control.lo -c smallapp/unbound-control.c libtool: compile:  gcc -I. -I/home/kbuchi/openssl-1.0.1m/dist/include -I/usr/local/include -g -O2 -flto -c smallapp/unbound-control.c  -DDLL_EXPORT -DPIC -o .libs/unbound-control.o libtool: compile:  gcc -I. -I/home/kbuchi/openssl-1.0.1m/dist/include -I/usr/local/include -g -O2 -flto -c smallapp/unbound-control.c -o unbound-control.o &gt;/dev/null 2&gt;&amp;1 windres -I.  -I/home/kbuchi/openssl-1.0.1m/dist/include -I/usr/local/include winrc/rsrc_unbound_control.rc rsrc_unbound_control.o ./libtool --tag=CC --mode=link gcc  -R/home/kbuchi/openssl-1.0.1m/dist/lib -I.  -I/home/kbuchi/openssl-1.0.1m/dist/include -I/usr/local/include -g -O2 -flto -L/home/kbuchi/openssl-1.0.1m/dist/lib -L/usr/local/lib -o unbound-control.exe unbound-control.lo  worker_cb.lo dns.lo infra.lo rrset.lo dname. lo msgencode.lo  msgparse.lo msgreply.lo packed_rrset.lo iterator.lo iter_delegpt.lo  iter_donotq.lo iter_fwd.lo iter_hints.lo iter_priv.lo iter_resptype.lo  iter_scrub.lo iter_utils.lo localzone.lo mesh.lo modstack.lo  outbound_list.lo alloc.lo config_file.lo configlexer.lo configparser.lo  fptr_wl ist.lo locks.lo log.lo mini_event.lo module.lo net_help.lo  random.lo rbtree.lo regional.lo rtt.lo dnstree.lo lookup3.lo lruhash.lo  slabhash.lo timehist.lo tube.lo winsock_event.lo autotrust.lo val_anchor.lo  validator.lo val_kcache.lo val_kentry.lo val_neg.lo val_nsec3.lo val_nsec.lo  val_secalgo. lo val_sigcrypt.lo val_utils.lo dns64.lo     netevent.lo listen_dnsport.lo  outside_network.lo  keyraw.lo sbuffer.lo wire2str.lo parse.lo parseutil.lo rrdef.lo  str2wire.lo strptime.lo inet_aton.lo strlcat.lo strlcpy.lo gmtime_r.lo arc4random.lo arc4random_uniform.lo explicit_bzero.lo arc4_lock.lo g etentropy_win.lo ctime_r.lo rsrc_unbound_control.o  -lssl -lcrypto -lws2_32 -liphlpapi libtool: link: gcc -I. -I/home/kbuchi/openssl-1.0.1m/dist/include -I/usr/local/include -g -O2 -flto -o .libs/unbound-control.exe .libs/unbound-control.o .libs/worker_cb.o .libs/dns.o .libs/infra.o .libs/rrset.o .libs/dname.o .libs/msgencode.o .libs/msgparse.o .libs/msgreply.o .libs/packed_rrset.o .l ibs/iterator.o .libs/iter_delegpt.o .libs/iter_donotq.o .libs/iter_fwd.o .libs/iter_hints.o .libs/iter_priv.o .libs/iter_resptype.o .libs/iter_scrub.o .libs/iter_utils.o .libs/localzone.o .libs/mesh.o .libs/modstack.o .libs/outbound_list.o .libs/alloc.o .libs/config_file.o .libs/configlexer.o .libs/ configparser.o .libs/fptr_wlist.o .libs/locks.o .libs/log.o .libs/mini_event.o .libs/module.o .libs/net_help.o .libs/random.o .libs/rbtree.o .libs/regional.o .libs/rtt.o .libs/dnstree.o .libs/lookup3.o .libs/lruhash.o .libs/slabhash.o .libs/timehist.o .libs/tube.o .libs/winsock_event.o .libs/autotru st.o .libs/val_anchor.o .libs/validator.o .libs/val_kcache.o .libs/val_kentry.o .libs/val_neg.o .libs/val_nsec3.o .libs/val_nsec.o .libs/val_secalgo.o .libs/val_sigcrypt.o .libs/val_utils.o .libs/dns64.o .libs/netevent.o .libs/listen_dnsport.o .libs/outside_network.o .libs/keyraw.o .libs/sbuffer.o . libs/wire2str.o .libs/parse.o .libs/parseutil.o .libs/rrdef.o .libs/str2wire.o .libs/strptime.o .libs/inet_aton.o .libs/strlcat.o .libs/strlcpy.o .libs/gmtime_r.o .libs/arc4random.o .libs/arc4random_uniform.o .libs/explicit_bzero.o .libs/arc4_lock.o .libs/getentropy_win.o .libs/ctime_r.o rsrc_unboun d_control.o  -L/home/kbuchi/openssl-1.0.1m/dist/lib -L/usr/local/lib -lssl -lcrypto -lws2_32 -liphlpapi  -L/home/kbuchi/openssl-1.0.1m/dist/lib ./libtool --tag=CC --mode=compile gcc -I.  -I/home/kbuchi/openssl-1.0.1m/dist/include -I/usr/local/include -g -O2 -flto -o unbound-anchor.lo -c smallapp/unbound-anchor.c libtool: compile:  gcc -I. -I/home/kbuchi/openssl-1.0.1m/dist/include -I/usr/local/include -g -O2 -flto -c smallapp/unbound-anchor.c  -DDLL_EXPORT -DPIC -o .libs/unbound-anchor.o libtool: compile:  gcc -I. -I/home/kbuchi/openssl-1.0.1m/dist/include -I/usr/local/include -g -O2 -flto -c smallapp/unbound-anchor.c -o unbound-anchor.o &gt;/dev/null 2&gt;&amp;1 windres -I.  -I/home/kbuchi/openssl-1.0.1m/dist/include -I/usr/local/include winrc/rsrc_unbound_anchor.rc rsrc_unbound_anchor.o ./libtool --tag=CC --mode=link gcc  -R/home/kbuchi/openssl-1.0.1m/dist/lib -I.  -I/home/kbuchi/openssl-1.0.1m/dist/include -I/usr/local/include -g -O2 -flto -L/home/kbuchi/openssl-1.0.1m/dist/lib -L/usr/local/lib -o unbound-anchor.exe unbound-anchor.lo  strptime.lo inet_aton.lo strlcat.lo strlcpy.lo  gmtime_r.lo arc4random.lo arc4random_uniform.lo explicit_bzero.lo arc4_lock.lo getentropy_win.lo rsrc_unbound_anchor.o log.lo locks.lo -L. -L.libs -lunbound -lexpat -lssl -lcrypto -lws2_32 -liphlpapi libtool: link: gcc -I. -I/home/kbuchi/openssl-1.0.1m/dist/include -I/usr/local/include -g -O2 -flto -o .libs/unbound-anchor.exe .libs/unbound-anchor.o .libs/strptime.o .libs/inet_aton.o .libs/strlcat.o .libs/strlcpy.o .libs/gmtime_r.o .libs/arc4random.o .libs/arc4random_uniform.o .libs/explicit_bzer o.o .libs/arc4_lock.o .libs/getentropy_win.o rsrc_unbound_anchor.o .libs/log.o .libs/locks.o  -L/home/kbuchi/openssl-1.0.1m/dist/lib -L/usr/local/lib -L. -L.libs /home/kbuchi/unbound-1.5.3/.libs/libunbound.dll.a /usr/local/lib/libexpat.dll.a -lssl -lcrypto -lws2_32 -liphlpapi  -L/usr/local/lib -L/ho me/kbuchi/openssl-1.0.1m/dist/lib cp smallapp/unbound-control-setup.sh unbound-control-setup chmod +x unbound-control-setup ./libtool --tag=CC --mode=compile gcc -I.  -I/home/kbuchi/openssl-1.0.1m/dist/include -I/usr/local/include -g -O2 -flto -o unbound-service-install.lo -c winrc/unbound-service-install.c libtool: compile:  gcc -I. -I/home/kbuchi/openssl-1.0.1m/dist/include -I/usr/local/include -g -O2 -flto -c winrc/unbound-service-install.c  -DDLL_EXPORT -DPIC -o .libs/unbound-service-install.o libtool: compile:  gcc -I. -I/home/kbuchi/openssl-1.0.1m/dist/include -I/usr/local/include -g -O2 -flto -c winrc/unbound-service-install.c -o unbound-service-install.o &gt;/dev/null 2&gt;&amp;1 windres -I.  -I/home/kbuchi/openssl-1.0.1m/dist/include -I/usr/local/include winrc/rsrc_svcinst.rc rsrc_svcinst.o ./libtool --tag=CC --mode=link gcc  -R/home/kbuchi/openssl-1.0.1m/dist/lib -I.  -I/home/kbuchi/openssl-1.0.1m/dist/include -I/usr/local/include -g -O2 -flto -L/home/kbuchi/openssl-1.0.1m/dist/lib -L/usr/local/lib -o unbound-service-install.exe unbound-service-install.lo w_inst.lo rsrc_svcinst.o strp time.lo inet_aton.lo strlcat.lo strlcpy.lo gmtime_r.lo arc4random.lo arc4random_uniform.lo explicit_bzero.lo arc4_lock.lo getentropy_win.lo -lcrypto -lws2_32 -liphlpapi libtool: link: gcc -I. -I/home/kbuchi/openssl-1.0.1m/dist/include -I/usr/local/include -g -O2 -flto -o .libs/unbound-service-install.exe .libs/unbound-service-install.o .libs/w_inst.o rsrc_svcinst.o .libs/strptime.o .libs/inet_aton.o .libs/strlcat.o .libs/strlcpy.o .libs/gmtime_r.o .libs/arc4random. o .libs/arc4random_uniform.o .libs/explicit_bzero.o .libs/arc4_lock.o .libs/getentropy_win.o  -L/home/kbuchi/openssl-1.0.1m/dist/lib -L/usr/local/lib -lcrypto -lws2_32 -liphlpapi  -L/home/kbuchi/openssl-1.0.1m/dist/lib ./libtool --tag=CC --mode=compile gcc -I.  -I/home/kbuchi/openssl-1.0.1m/dist/include -I/usr/local/include -g -O2 -flto -o unbound-service-remove.lo -c winrc/unbound-service-remove.c libtool: compile:  gcc -I. -I/home/kbuchi/openssl-1.0.1m/dist/include -I/usr/local/include -g -O2 -flto -c winrc/unbound-service-remove.c  -DDLL_EXPORT -DPIC -o .libs/unbound-service-remove.o libtool: compile:  gcc -I. -I/home/kbuchi/openssl-1.0.1m/dist/include -I/usr/local/include -g -O2 -flto -c winrc/unbound-service-remove.c -o unbound-service-remove.o &gt;/dev/null 2&gt;&amp;1 windres -I.  -I/home/kbuchi/openssl-1.0.1m/dist/include -I/usr/local/include winrc/rsrc_svcuninst.rc rsrc_svcuninst.o ./libtool --tag=CC --mode=link gcc  -R/home/kbuchi/openssl-1.0.1m/dist/lib -I.  -I/home/kbuchi/openssl-1.0.1m/dist/include -I/usr/local/include -g -O2 -flto -L/home/kbuchi/openssl-1.0.1m/dist/lib -L/usr/local/lib -o unbound-service-remove.exe unbound-service-remove.lo w_inst.lo rsrc_svcuninst.o  str ptime.lo inet_aton.lo strlcat.lo strlcpy.lo gmtime_r.lo arc4random.lo arc4random_uniform.lo explicit_bzero.lo arc4_lock.lo getentropy_win.lo -lcrypto -lws2_32 -liphlpapi"/>
 </node>
 </node>
 </node>
-<node CREATED="1427872879175" FOLDED="true" ID="ID_960340860" MODIFIED="1427931378275" TEXT="2">
-<node COLOR="#ff0000" CREATED="1427872880231" FOLDED="true" ID="ID_555888671" MODIFIED="1427931378274" TEXT="ERROR">
-<node CREATED="1427872883151" FOLDED="true" ID="ID_104546153" MODIFIED="1427931378269" TEXT="line">
+<node CREATED="1427872879175" FOLDED="true" ID="ID_960340860" MODIFIED="1454051529868" TEXT="2">
+<node COLOR="#ff0000" CREATED="1427872880231" FOLDED="true" ID="ID_555888671" MODIFIED="1454051529867" TEXT="ERROR">
+<node CREATED="1427872883151" FOLDED="true" ID="ID_104546153" MODIFIED="1454051529865" TEXT="line">
 <node CREATED="1427872884657" ID="ID_687463502" MODIFIED="1427872885879" TEXT="libtool: compile:  gcc -I. -I/home/kbuchi/openssl-1.0.1m/dist/include -I/usr/local/include -g -O2 -flto -c winrc/anchor-update.c  -DDLL_EXPORT -DPIC -o .libs/anchor-update.o libtool: compile:  gcc -I. -I/home/kbuchi/openssl-1.0.1m/dist/include -I/usr/local/include -g -O2 -flto -c winrc/anchor-update.c -o anchor-update.o &gt;/dev/null 2&gt;&amp;1 windres -I.  -I/home/kbuchi/openssl-1.0.1m/dist/include -I/usr/local/include winrc/rsrc_anchorupd.rc rsrc_anchorupd.o ./libtool --tag=CC --mode=link gcc  -R/home/kbuchi/openssl-1.0.1m/dist/lib -I.  -I/home/kbuchi/openssl-1.0.1m/dist/include -I/usr/local/include -g -O2 -flto -L/home/kbuchi/openssl-1.0.1m/dist/lib -L/usr/local/lib -o anchor-update.exe anchor-update.lo rsrc_anchorupd.o strptime.lo inet_aton.lo strlcat .lo strlcpy.lo gmtime_r.lo arc4random.lo arc4random_uniform.lo explicit_bzero.lo arc4_lock.lo getentropy_win.lo -L. -L.libs -lunbound -lcrypto -lws2_32 -liphlpapi libtool: link: gcc -I. -I/home/kbuchi/openssl-1.0.1m/dist/include -I/usr/local/include -g -O2 -flto -o .libs/anchor-update.exe .libs/anchor-update.o rsrc_anchorupd.o .libs/strptime.o .libs/inet_aton.o .libs/strlcat.o .libs/strlcpy.o .libs/gmtime_r.o .libs/arc4random.o .libs/arc4random_uniform.o .lib s/explicit_bzero.o .libs/arc4_lock.o .libs/getentropy_win.o  -L/home/kbuchi/openssl-1.0.1m/dist/lib -L/usr/local/lib -L. -L.libs /home/kbuchi/unbound-1.5.3/.libs/libunbound.dll.a -lssl -lcrypto -lws2_32 -liphlpapi  -L/usr/local/lib -L/home/kbuchi/openssl-1.0.1m/dist/lib C:\Users\kbuchi\AppData\Local\Temp\ccNbcz1V.ltrans0.ltrans.o: In function `do_print&apos;: C:\msys\home\kbuchi\unbound-1.5.3/winrc/anchor-update.c:98: undefined reference to `sldns_wire2str_rdata_buf&apos; C:\msys\home\kbuchi\unbound-1.5.3/winrc/anchor-update.c:101: undefined reference to `sldns_wire2str_type_buf&apos; collect2.exe: error: ld returned 1 exit status Makefile:321: recipe for target `anchor-update.exe&apos; failed make: *** [anchor-update.exe] Error 1 "/>
 </node>
 <node CREATED="1427872983714" FOLDED="true" ID="ID_78829596" MODIFIED="1427931378274" TEXT="TRY">
@@ -776,10 +776,10 @@
 <node CREATED="1427873027975" ID="ID_126309093" MODIFIED="1427873027976" TEXT=" 15/04/01"/>
 </node>
 </node>
-<node CREATED="1427882814994" FOLDED="true" ID="ID_1138664633" MODIFIED="1427931378287" TEXT="3">
-<node COLOR="#ff0000" CREATED="1427882817195" FOLDED="true" ID="ID_1282265091" MODIFIED="1427931378286" TEXT="ERROR">
+<node CREATED="1427882814994" FOLDED="true" ID="ID_1138664633" MODIFIED="1454051537617" TEXT="3">
+<node COLOR="#ff0000" CREATED="1427882817195" FOLDED="true" ID="ID_1282265091" MODIFIED="1454051533426" TEXT="ERROR">
 <icon BUILTIN="button_ok"/>
-<node CREATED="1427882820586" FOLDED="true" ID="ID_1036648185" MODIFIED="1427931378276" TEXT="line">
+<node CREATED="1427882820586" FOLDED="true" ID="ID_1036648185" MODIFIED="1454051533425" TEXT="line">
 <node CREATED="1427882823171" ID="ID_1375500161" MODIFIED="1427882824991" TEXT="$ make ./libtool --tag=CC --mode=compile gcc -I.  -I/home/kbuchi/openssl-1.0.1m/dist/include -I/usr/local/include -g -O2 -flto -o anchor-update.lo -c winrc/anchor-update.c libtool: compile:  gcc -I. -I/home/kbuchi/openssl-1.0.1m/dist/include -I/usr/local/include -g -O2 -flto -c winrc/anchor-update.c  -DDLL_EXPORT -DPIC -o .libs/anchor-update.o libtool: compile:  gcc -I. -I/home/kbuchi/openssl-1.0.1m/dist/include -I/usr/local/include -g -O2 -flto -c winrc/anchor-update.c -o anchor-update.o &gt;/dev/null 2&gt;&amp;1 ./libtool --tag=CC --mode=link gcc  -R/home/kbuchi/openssl-1.0.1m/dist/lib -I.  -I/home/kbuchi/openssl-1.0.1m/dist/include -I/usr/local/include -g -O2 -flto -L/home/kbuchi/openssl-1.0.1m/dist/lib .lo strlcpy.lo gmtime_r.lo arc4random.lo arc4random_uniform.lo explicit_bzero.lo arc4_lock.lo getentropy_win.lo -L. -L.libs -lunbound -lcrypto -lws2_32 -liphlpapi libtool: link: gcc -I. -I/home/kbuchi/openssl-1.0.1m/dist/include -I/usr/local/include -g -O2 -flto -o .libs/anchor-update.exe .libs/anchor-update.o rsrc_anchorupd.o .libs/strptime.o .libs/inet_at s/explicit_bzero.o .libs/arc4_lock.o .libs/getentropy_win.o  -L/home/kbuchi/openssl-1.0.1m/dist/lib -L/usr/local/lib -L. -L.libs /home/kbuchi/unbound-1.5.3/.libs/libunbound.dll.a -lssl -lcrypto -l C:\Users\kbuchi\AppData\Local\Temp\cc4SyR1m.ltrans0.ltrans.o: In function `sldns_wire2str_rdata_scan&apos;: C:\msys\home\kbuchi\unbound-1.5.3/winrc/anchor-update.c:789: undefined reference to `sldns_rr_descript&apos; C:\msys\home\kbuchi\unbound-1.5.3/winrc/anchor-update.c:794: undefined reference to `sldns_rr_descriptor_maximum&apos; C:\msys\home\kbuchi\unbound-1.5.3/winrc/anchor-update.c:801: undefined reference to `sldns_rr_descriptor_field_type&apos; C:\msys\home\kbuchi\unbound-1.5.3/winrc/anchor-update.c:801: undefined reference to `sldns_rr_descriptor_field_type&apos; C:\Users\kbuchi\AppData\Local\Temp\cc4SyR1m.ltrans0.ltrans.o: In function `sldns_wire2str_loc_scan&apos;: C:\msys\home\kbuchi\unbound-1.5.3/winrc/anchor-update.c:1463: undefined reference to `sldns_read_uint32&apos; C:\msys\home\kbuchi\unbound-1.5.3/winrc/anchor-update.c:1464: undefined reference to `sldns_read_uint32&apos; C:\msys\home\kbuchi\unbound-1.5.3/winrc/anchor-update.c:1465: undefined reference to `sldns_read_uint32&apos; C:\Users\kbuchi\AppData\Local\Temp\cc4SyR1m.ltrans0.ltrans.o: In function `sldns_wire2str_int16_data_scan&apos;: C:\msys\home\kbuchi\unbound-1.5.3/winrc/anchor-update.c:1682: undefined reference to `sldns_read_uint16&apos; C:\Users\kbuchi\AppData\Local\Temp\cc4SyR1m.ltrans0.ltrans.o: In function `sldns_wire2str_int32_scan&apos;: C:\msys\home\kbuchi\unbound-1.5.3/winrc/anchor-update.c:1110: undefined reference to `sldns_read_uint32&apos; C:\Users\kbuchi\AppData\Local\Temp\cc4SyR1m.ltrans0.ltrans.o: In function `sldns_wire2str_int16_scan&apos;: C:\msys\home\kbuchi\unbound-1.5.3/winrc/anchor-update.c:1100: undefined reference to `sldns_read_uint16&apos; C:\Users\kbuchi\AppData\Local\Temp\cc4SyR1m.ltrans0.ltrans.o: In function `sldns_wire2str_ilnp64_scan&apos;: C:\msys\home\kbuchi\unbound-1.5.3/winrc/anchor-update.c:1701: undefined reference to `sldns_read_uint16&apos; C:\msys\home\kbuchi\unbound-1.5.3/winrc/anchor-update.c:1701: undefined reference to `sldns_read_uint16&apos; C:\msys\home\kbuchi\unbound-1.5.3/winrc/anchor-update.c:1701: undefined reference to `sldns_read_uint16&apos; C:\msys\home\kbuchi\unbound-1.5.3/winrc/anchor-update.c:1701: undefined reference to `sldns_read_uint16&apos; C:\Users\kbuchi\AppData\Local\Temp\cc4SyR1m.ltrans0.ltrans.o:C:\msys\home\kbuchi\unbound-1.5.3/winrc/anchor-update.c:987: more undefined references to `sldns_read_uint16&apos; follow C:\Users\kbuchi\AppData\Local\Temp\cc4SyR1m.ltrans0.ltrans.o: In function `sldns_wire2str_cert_alg_scan&apos;: C:\msys\home\kbuchi\unbound-1.5.3/winrc/anchor-update.c:1379: undefined reference to `sldns_lookup_by_id&apos; C:\Users\kbuchi\AppData\Local\Temp\cc4SyR1m.ltrans0.ltrans.o: In function `sldns_wire2str_class_scan&apos;: C:\msys\home\kbuchi\unbound-1.5.3/winrc/anchor-update.c:976: undefined reference to `sldns_read_uint16&apos; C:\Users\kbuchi\AppData\Local\Temp\cc4SyR1m.ltrans0.ltrans.o: In function `sldns_wire2str_class_print&apos;: C:\msys\home\kbuchi\unbound-1.5.3/winrc/anchor-update.c:943: undefined reference to `sldns_lookup_by_id&apos; C:\Users\kbuchi\AppData\Local\Temp\cc4SyR1m.ltrans0.ltrans.o: In function `sldns_wire2str_period_scan&apos;: C:\msys\home\kbuchi\unbound-1.5.3/winrc/anchor-update.c:1120: undefined reference to `sldns_read_uint32&apos; C:\Users\kbuchi\AppData\Local\Temp\cc4SyR1m.ltrans0.ltrans.o: In function `sldns_wire2str_time_scan&apos;: C:\msys\home\kbuchi\unbound-1.5.3/winrc/anchor-update.c:1408: undefined reference to `sldns_read_uint32&apos; C:\msys\home\kbuchi\unbound-1.5.3/winrc/anchor-update.c:1410: undefined reference to `sldns_serial_arithmitics_gmtime_r&apos; C:\Users\kbuchi\AppData\Local\Temp\cc4SyR1m.ltrans0.ltrans.o: In function `sldns_wire2str_rdata_scan&apos;: C:\msys\home\kbuchi\unbound-1.5.3/winrc/anchor-update.c:797: undefined reference to `sldns_rr_descriptor_minimum&apos; C:\Users\kbuchi\AppData\Local\Temp\cc4SyR1m.ltrans0.ltrans.o:cc4SyR1m.ltrans0.o:(.rdata$.refptr.sldns_rr_classes[.refptr.sldns_rr_classes]+0x0): undefined reference to `sldns_rr_classes&apos; C:\Users\kbuchi\AppData\Local\Temp\cc4SyR1m.ltrans1.ltrans.o: In function `sldns_wire2str_b64_scan_num.lto_priv.7&apos;: C:\msys\home\kbuchi\unbound-1.5.3/winrc/anchor-update.c:1284: undefined reference to `sldns_b64_ntop_calculate_size&apos; C:\msys\home\kbuchi\unbound-1.5.3/winrc/anchor-update.c:1291: undefined reference to `sldns_b64_ntop&apos; C:\Users\kbuchi\AppData\Local\Temp\cc4SyR1m.ltrans1.ltrans.o: In function `sldns_wire2str_b32_ext_scan&apos;: C:\msys\home\kbuchi\unbound-1.5.3/winrc/anchor-update.c:1264: undefined reference to `sldns_b32_ntop_calculate_size&apos; C:\msys\home\kbuchi\unbound-1.5.3/winrc/anchor-update.c:1271: undefined reference to `sldns_b32_ntop_extended_hex&apos; C:\Users\kbuchi\AppData\Local\Temp\cc4SyR1m.ltrans1.ltrans.o: In function `sldns_wire2str_type_print&apos;: C:\msys\home\kbuchi\unbound-1.5.3/winrc/anchor-update.c:953: undefined reference to `sldns_rr_descript&apos; collect2.exe: error: ld returned 1 exit status Makefile:321: recipe for target `anchor-update.exe&apos; failed make: *** [anchor-update.exe] Error 1 "/>
 </node>
 <node CREATED="1427882833738" FOLDED="true" ID="ID_1655313899" MODIFIED="1427931378280" TEXT="TRY">
@@ -830,7 +830,7 @@
 <node CREATED="1427698935531" MODIFIED="1427698935531" TEXT="make install"/>
 </node>
 </node>
-<node CREATED="1427930411792" FOLDED="true" ID="ID_1514523516" MODIFIED="1427931376989" TEXT="TRY">
+<node CREATED="1427930411792" FOLDED="true" ID="ID_1514523516" MODIFIED="1454051518082" TEXT="TRY">
 <node CREATED="1427930413621" FOLDED="true" ID="ID_1196723673" MODIFIED="1427931376977" TEXT="1">
 <icon BUILTIN="button_ok"/>
 <node CREATED="1427930414801" ID="ID_1908846384" MODIFIED="1427930417693" TEXT="cd ~"/>
@@ -850,17 +850,17 @@
 </node>
 </node>
 </node>
-<node CREATED="1427930419760" FOLDED="true" ID="ID_1568202582" MODIFIED="1427931376986" TEXT="3">
+<node CREATED="1427930419760" FOLDED="true" ID="ID_1568202582" MODIFIED="1454051518081" TEXT="3">
 <node CREATED="1427930836215" ID="ID_1573958979" MODIFIED="1427930837294" TEXT="$ unbound-anchor -a &quot;C:\Program Files\Unbound\root.key&quot;"/>
-<node COLOR="#ff0000" CREATED="1427930813936" FOLDED="true" ID="ID_1370220788" MODIFIED="1427931376985" TEXT="ERROR">
-<node CREATED="1427930819368" FOLDED="true" ID="ID_1850972166" MODIFIED="1427931376979" TEXT="line">
+<node COLOR="#ff0000" CREATED="1427930813936" FOLDED="true" ID="ID_1370220788" MODIFIED="1454051518080" TEXT="ERROR">
+<node CREATED="1427930819368" FOLDED="true" ID="ID_1850972166" MODIFIED="1454051515289" TEXT="line">
 <node CREATED="1427930821028" ID="ID_245763880" MODIFIED="1427930821852" TEXT="kbuchi@kbuchi-PC ~/gnutls-3.3.13 $ unbound-anchor -a &quot;C:\Program Files\Unbound\root.key&quot; [1427930790] libunbound[604:0] error: unable to open C:\Program Files\Unbound\root.key for reading: No such file or directory [1427930790] libunbound[604:0] error: error reading auto-trust-anchor-file: C:\Program Files\Unbound\root.key [1427930790] libunbound[604:0] error: validator: error in trustanchors config [1427930790] libunbound[604:0] error: validator: could not apply configuration settings. [1427930790] libunbound[604:0] error: module init for module validator failed"/>
 </node>
-<node CREATED="1427930841751" FOLDED="true" ID="ID_412520048" MODIFIED="1427931376982" TEXT="TRY">
+<node CREATED="1427930841751" FOLDED="true" ID="ID_412520048" MODIFIED="1454051518079" TEXT="TRY">
 <icon BUILTIN="stop-sign"/>
 <node CREATED="1427930866730" ID="ID_1059768118" MODIFIED="1427930881822" TEXT="unbound-anchor -a &quot;/home/Unbound/root.key&quot;"/>
-<node COLOR="#ff0000" CREATED="1427930989861" FOLDED="true" ID="ID_1278668536" MODIFIED="1427931376981" TEXT="ERROR">
-<node CREATED="1427931069544" FOLDED="true" ID="ID_427741275" MODIFIED="1427931376980" TEXT="line">
+<node COLOR="#ff0000" CREATED="1427930989861" FOLDED="true" ID="ID_1278668536" MODIFIED="1454051518078" TEXT="ERROR">
+<node CREATED="1427931069544" FOLDED="true" ID="ID_427741275" MODIFIED="1454051518076" TEXT="line">
 <node CREATED="1427931070873" ID="ID_1402591532" MODIFIED="1427931071309" TEXT="kbuchi@kbuchi-PC ~/gnutls-3.3.13 $ unbound-anchor -a &quot;/home/Unbound/root.key&quot; [1427930891] libunbound[6584:0] error: unable to open C:/msys/home/Unbound/root.key for reading: No such file or directory [1427930891] libunbound[6584:0] error: error reading auto-trust-anchor-file: C:/msys/home/Unbound/root.key [1427930891] libunbound[6584:0] error: validator: error in trustanchors config [1427930891] libunbound[6584:0] error: validator: could not apply configuration settings. [1427930891] libunbound[6584:0] error: module init for module validator failed "/>
 </node>
 </node>
@@ -2008,7 +2008,7 @@
 <node CREATED="1447370997756" ID="ID_804323801" MODIFIED="1447370997757" TEXT=" 15/11/13"/>
 </node>
 </node>
-<node CREATED="1453377717410" FOLDED="true" ID="ID_1460809084" MODIFIED="1453901253561" TEXT="D-14">
+<node CREATED="1453377717410" FOLDED="true" ID="ID_1460809084" MODIFIED="1454051583075" TEXT="D-14">
 <node CREATED="1453377833574" ID="ID_1659932540" MODIFIED="1453377839026" TEXT="mac mini"/>
 <node CREATED="1453377851176" FOLDED="true" ID="ID_1051577849" MODIFIED="1453901253560" TEXT="s-1">
 <font NAME="SansSerif" SIZE="12"/>
@@ -2115,10 +2115,10 @@
 </node>
 </node>
 </node>
-<node CREATED="1453422737292" FOLDED="true" ID="ID_597744783" MODIFIED="1453612681940" TEXT="s-2">
+<node CREATED="1453422737292" FOLDED="true" ID="ID_597744783" MODIFIED="1454051513860" TEXT="s-2">
 <icon BUILTIN="stop-sign"/>
 <node CREATED="1453422743120" ID="ID_1738313284" MODIFIED="1453422743122" TEXT=" 16/01/22"/>
-<node CREATED="1446500329341" FOLDED="true" ID="ID_367718344" MODIFIED="1453612681940" TEXT="#1">
+<node CREATED="1446500329341" FOLDED="true" ID="ID_367718344" MODIFIED="1454051513859" TEXT="#1">
 <node CREATED="1453422751448" FOLDED="true" ID="ID_1344250116" MODIFIED="1453612681937" TEXT="todo">
 <node CREATED="1401588724075" FOLDED="true" ID="ID_1817634815" MODIFIED="1453448633779" TEXT="1">
 <node CREATED="1453422802409" ID="ID_562799122" MODIFIED="1453422824593" TEXT="DocumentRoot &#x3092;&#x3001;/Users/mac/Desktop/works/WS &#x306b;&#x5909;&#x3048;&#x308b;"/>
@@ -2130,8 +2130,8 @@
 <node CREATED="1453422888667" ID="ID_341323863" MODIFIED="1453422897445" TEXT="try =&gt; access the page"/>
 </node>
 </node>
-<node COLOR="#669900" CREATED="1401600740073" FOLDED="true" HGAP="23" ID="ID_1465017321" MODIFIED="1453612681939" TEXT="steps" VSHIFT="3">
-<node CREATED="1401588724075" FOLDED="true" ID="ID_614655473" MODIFIED="1453448633790" TEXT="1">
+<node COLOR="#669900" CREATED="1401600740073" FOLDED="true" HGAP="23" ID="ID_1465017321" MODIFIED="1454051513858" TEXT="steps" VSHIFT="3">
+<node CREATED="1401588724075" FOLDED="true" ID="ID_614655473" MODIFIED="1454051513856" TEXT="1">
 <node CREATED="1453440826576" FOLDED="true" ID="ID_733232312" MODIFIED="1453448633783" TEXT="install =&gt;">
 <node CREATED="1453440829490" ID="ID_311794509" MODIFIED="1453440832191" TEXT="FileZilla"/>
 </node>
@@ -2144,10 +2144,10 @@
 <icon BUILTIN="button_ok"/>
 <node CREATED="1453441827362" ID="ID_1337608050" MODIFIED="1453441833128" TEXT="connect to remote"/>
 </node>
-<node CREATED="1401588725485" FOLDED="true" ID="ID_75413031" MODIFIED="1453448633789" TEXT="3">
-<node CREATED="1453442135127" FOLDED="true" ID="ID_224560286" MODIFIED="1453448633788" TEXT="download =&gt;">
+<node CREATED="1401588725485" FOLDED="true" ID="ID_75413031" MODIFIED="1454051513855" TEXT="3">
+<node CREATED="1453442135127" FOLDED="true" ID="ID_224560286" MODIFIED="1454051513854" TEXT="download =&gt;">
 <node CREATED="1453442139969" ID="ID_1612708933" MODIFIED="1453442143114" TEXT="index.php"/>
-<node CREATED="1453442169617" FOLDED="true" ID="ID_638985528" MODIFIED="1453448633786" TEXT="at">
+<node CREATED="1453442169617" FOLDED="true" ID="ID_638985528" MODIFIED="1454051513853" TEXT="at">
 <node CREATED="1453442165847" ID="ID_1216886926" MODIFIED="1453442171692" TEXT="/cake_apps"/>
 </node>
 <node CREATED="1453442214294" FOLDED="true" ID="ID_1757720411" MODIFIED="1453448633787" TEXT="to">
@@ -2558,7 +2558,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1453588473088" FOLDED="true" ID="ID_166527029" MODIFIED="1453612657500" TEXT="D-15">
+<node CREATED="1453588473088" FOLDED="true" ID="ID_166527029" MODIFIED="1454051583076" TEXT="D-15">
 <node CREATED="1453588496234" ID="ID_571244889" MODIFIED="1453588500296" TEXT="Eclipse on Mac"/>
 <node CREATED="1453588512273" FOLDED="true" ID="ID_1367569971" MODIFIED="1453612657500" TEXT="s-1">
 <icon BUILTIN="button_ok"/>
@@ -2610,9 +2610,58 @@
 </node>
 </node>
 </node>
-<node CREATED="1363749220464" FOLDED="true" ID="ID_713570344" MODIFIED="1453612686831" TEXT="TEMPL">
-<node CREATED="1453588512273" FOLDED="true" ID="ID_1737659074" MODIFIED="1453612686823" TEXT="s-1">
-<node CREATED="1446500329341" FOLDED="true" ID="ID_867212160" MODIFIED="1453588571118" TEXT="#1">
+<node CREATED="1454025319744" FOLDED="true" ID="ID_385805070" MODIFIED="1454051510082" TEXT="D-16">
+<node CREATED="1454025321796" ID="ID_390789623" MODIFIED="1454025326459" TEXT="mac bash programming"/>
+<node CREATED="1453588512273" FOLDED="true" ID="ID_1277707668" MODIFIED="1454051510080" TEXT="s-1">
+<node CREATED="1446500329341" FOLDED="true" ID="ID_522262340" MODIFIED="1454051510079" TEXT="#1">
+<node CREATED="1454025342086" ID="ID_1499805836" MODIFIED="1454025343537" TEXT=" 16/01/29"/>
+<node CREATED="1453422751448" FOLDED="true" ID="ID_854531692" MODIFIED="1454051510078" TEXT="todo">
+<node CREATED="1401588724075" FOLDED="true" ID="ID_1030628033" MODIFIED="1454051510076" TEXT="1">
+<node CREATED="1454025359061" ID="ID_380639700" MODIFIED="1454025361033" TEXT="&quot;1051   ??  S      0:15.31 /Applications/Google Chrome.app/Contents/MacOS/Google Chrome&quot;"/>
+<node CREATED="1454025362368" ID="ID_87231300" MODIFIED="1454025365258" TEXT="=&gt; get pid"/>
+</node>
+<node CREATED="1401588724779" FOLDED="true" ID="ID_791758492" MODIFIED="1454051461605" TEXT="2">
+<node CREATED="1454026698012" ID="ID_694893933" MODIFIED="1454026708448" TEXT="goto statement"/>
+</node>
+<node CREATED="1401588725485" ID="ID_316266453" MODIFIED="1401600746993" TEXT="3"/>
+<node CREATED="1401588726267" ID="ID_1718579820" MODIFIED="1401600746995" TEXT="4"/>
+</node>
+<node CREATED="1453588560123" FOLDED="true" ID="ID_178055233" MODIFIED="1454051461625" TEXT="ref">
+<node CREATED="1401588724075" FOLDED="true" ID="ID_1051295612" MODIFIED="1454051461624" TEXT="1">
+<node CREATED="1454026712563" ID="ID_448018741" MODIFIED="1454026713520" TEXT="goto"/>
+<node CREATED="1401588724075" FOLDED="true" ID="ID_725216067" LINK="https://bobcopeland.com/blog/2012/10/goto-in-bash/" MODIFIED="1454051461606" TEXT="1">
+<node CREATED="1454026735833" ID="ID_533003615" MODIFIED="1454026738757" TEXT="function with params"/>
+</node>
+<node CREATED="1401588724779" FOLDED="true" ID="ID_615078673" LINK="http://stackoverflow.com/questions/8680065/how-do-you-goto-in-mac-shell-like-a-in-windows-bat" MODIFIED="1454051461622" TEXT="2">
+<node CREATED="1454026753796" ID="ID_1001352202" MODIFIED="1454026758664" TEXT="functions, while loops"/>
+</node>
+<node CREATED="1401588725485" ID="ID_162708068" MODIFIED="1401600746993" TEXT="3"/>
+</node>
+<node CREATED="1401588724779" ID="ID_1343350954" MODIFIED="1401600746990" TEXT="2"/>
+<node CREATED="1401588725485" ID="ID_1857526111" MODIFIED="1401600746993" TEXT="3"/>
+</node>
+<node COLOR="#669900" CREATED="1401600740073" FOLDED="true" HGAP="23" ID="ID_454289355" MODIFIED="1453588571108" TEXT="steps" VSHIFT="3">
+<node CREATED="1401588724075" ID="ID_1139151862" MODIFIED="1401600746988" TEXT="1"/>
+<node CREATED="1401588724779" ID="ID_4464884" MODIFIED="1401600746990" TEXT="2"/>
+<node CREATED="1401588725485" ID="ID_1640110117" MODIFIED="1401600746993" TEXT="3"/>
+<node CREATED="1401588726267" ID="ID_955549861" MODIFIED="1401600746995" TEXT="4"/>
+</node>
+<node CREATED="1342048146168" FOLDED="true" ID="ID_1532785240" MODIFIED="1453588571118" TEXT="ADMIN">
+<node CREATED="1366440780757" FOLDED="true" ID="ID_1934522769" MODIFIED="1453588571108" TEXT="TEST">
+<node CREATED="1367381931132" ID="ID_219983002" MODIFIED="1367381934299" TEXT="LOCAL"/>
+</node>
+<node CREATED="1342230904781" ID="ID_1062106378" MODIFIED="1366443609764" TEXT="COMMIT"/>
+<node CREATED="1342230908515" ID="ID_1584173490" MODIFIED="1366443609763" TEXT="MERGE"/>
+<node CREATED="1344491413546" FOLDED="true" ID="ID_1403185952" MODIFIED="1453588571108" TEXT="PUSH">
+<node CREATED="1344491415718" ID="ID_746988854" MODIFIED="1366443609763" TEXT="Origin"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1363749220464" FOLDED="true" ID="ID_713570344" MODIFIED="1454051583077" TEXT="TEMPL">
+<node CREATED="1453588512273" FOLDED="true" ID="ID_1737659074" MODIFIED="1454051583077" TEXT="s-1">
+<node CREATED="1446500329341" FOLDED="true" ID="ID_867212160" MODIFIED="1454051583076" TEXT="#1">
 <node CREATED="1453422751448" FOLDED="true" ID="ID_886467622" MODIFIED="1453588571106" TEXT="todo">
 <node CREATED="1401588724075" ID="ID_925005902" MODIFIED="1401600746988" TEXT="1"/>
 <node CREATED="1401588724779" ID="ID_835170198" MODIFIED="1401600746990" TEXT="2"/>
@@ -2646,7 +2695,7 @@
 </node>
 </node>
 <node CREATED="1414761430108" ID="ID_1714608002" MODIFIED="1414761432306" POSITION="right" TEXT="todo">
-<node CREATED="1427242961234" FOLDED="true" ID="ID_259433528" MODIFIED="1453901255860" TEXT="copied to LOG">
+<node CREATED="1427242961234" FOLDED="true" ID="ID_259433528" MODIFIED="1454051580627" TEXT="copied to LOG">
 <node CREATED="1427242967727" FOLDED="true" ID="ID_1978732271" MODIFIED="1453377682837" TEXT="D-1">
 <node CREATED="1427242969830" FOLDED="true" ID="ID_1929917322" MODIFIED="1453377678288" TEXT="FileZilla">
 <node CREATED="1427242973078" ID="ID_1130256754" MODIFIED="1427242995530" TEXT="=&gt; add &quot;gitignore&quot;-equivalent feature"/>
@@ -2713,6 +2762,9 @@
 </node>
 <node CREATED="1453588473088" FOLDED="true" ID="ID_1454552830" MODIFIED="1453901255856" TEXT="D-15">
 <node CREATED="1453588496234" ID="ID_310995175" MODIFIED="1453588500296" TEXT="Eclipse on Mac"/>
+</node>
+<node CREATED="1454025319744" FOLDED="true" ID="ID_364651292" MODIFIED="1454051580626" TEXT="D-16">
+<node CREATED="1454025321796" ID="ID_1119633501" MODIFIED="1454025326459" TEXT="mac bash programming"/>
 </node>
 </node>
 <node CREATED="1453901257549" ID="ID_79297711" MODIFIED="1453901261926" TEXT="D-">
