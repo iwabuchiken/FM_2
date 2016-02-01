@@ -38895,10 +38895,10 @@
 </node>
 </node>
 </node>
-<node CREATED="1452578370065" ID="ID_1806491001" MODIFIED="1454024738785" TEXT="s-53">
+<node CREATED="1452578370065" FOLDED="true" ID="ID_1806491001" MODIFIED="1454280818130" TEXT="s-53">
 <icon BUILTIN="button_ok"/>
 <node CREATED="1452926092087" ID="ID_1279527239" MODIFIED="1454018494191" TEXT=" 16/01/29"/>
-<node COLOR="#338800" CREATED="1452927231360" ID="ID_1327638680" MODIFIED="1454024394594" TEXT="steps">
+<node COLOR="#338800" CREATED="1452927231360" FOLDED="true" ID="ID_1327638680" MODIFIED="1454280818130" TEXT="steps">
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1452844705278" ID="ID_1157732680" MODIFIED="1454018505834" TEXT="iphone image files">
 <font NAME="SansSerif" SIZE="12"/>
@@ -39514,8 +39514,646 @@
 </node>
 </node>
 </node>
-<node BACKGROUND_COLOR="#0033cc" COLOR="#ffffff" CREATED="1341456063578" ID="ID_1980879762" MODIFIED="1454018505834" TEXT="N@d-11">
+<node CREATED="1452578370065" ID="ID_1533038226" MODIFIED="1454280835432" TEXT="s-54">
+<node CREATED="1452926092087" ID="ID_696076820" MODIFIED="1454280847802" TEXT=" 16/02/01"/>
+<node COLOR="#338800" CREATED="1452927231360" ID="ID_1516248197" MODIFIED="1454280852173" TEXT="steps">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1452844705278" ID="ID_1000234101" MODIFIED="1454280831411" TEXT="iphone image files">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node BACKGROUND_COLOR="#0033cc" COLOR="#ffffff" CREATED="1341456063578" ID="ID_1980879762" MODIFIED="1454280856262" TEXT="N@d-11">
 <cloud/>
+</node>
+<node CREATED="1446798561144" FOLDED="true" ID="ID_109196467" MODIFIED="1454280865573" TEXT="1">
+<font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="flag-blue"/>
+<node CREATED="1446798563792" FOLDED="true" ID="ID_108861981" MODIFIED="1454280865568" TEXT="C/P">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1446798566935" FOLDED="true" ID="ID_778779509" MODIFIED="1454280865566" TEXT="image files">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1448759612166" ID="ID_1464446982" MODIFIED="1454280831411" TEXT="=&gt; new ones">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1453680315764" FOLDED="true" ID="ID_189664134" MODIFIED="1454280865566" TEXT="=&gt; use &quot;&#x30d7;&#x30ec;&#x30d3;&#x30e5;&#x30fc;&quot;">
+<node CREATED="1453680333950" ID="ID_1510000682" LINK="http://weekly.ascii.jp/elem/000/000/156/156639/" MODIFIED="1454280831411" TEXT="tut"/>
+</node>
+<node CREATED="1454019943467" FOLDED="true" ID="ID_1472981433" MODIFIED="1454280865567" TEXT="=&gt; use the button &quot;&#x8aad;&#x307f;&#x8fbc;&#x3080;&quot;">
+<node CREATED="1454019965145" ID="ID_408800188" MODIFIED="1454280831410" TEXT="--&gt; &#x53f3;&#x30af;&#x30ea;&#x30c3;&#x30af;&#x3067;&#x3001;&#x300c;&#x8aad;&#x307f;&#x8fbc;&#x3080;&#x300d;&#x3092;&#x30af;&#x30ea;&#x30c3;&#x30af;&#x3000;=&gt;&#x3000;&#x4f55;&#x3082;&#x8d77;&#x3053;&#x3089;&#x306a;&#x3044;"/>
+<node CREATED="1454020030753" ID="ID_249855851" MODIFIED="1454280831410" TEXT=" 16/01/29"/>
+</node>
+</node>
+<node CREATED="1446854454954" FOLDED="true" ID="ID_1047529727" MODIFIED="1454280865572" TEXT="1">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1446798570976" FOLDED="true" ID="ID_420724304" MODIFIED="1454280865569" TEXT="from">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#990000" CREATED="1446705812703" ID="ID_1524351430" MODIFIED="1454280831410" TEXT="&#x30b3;&#x30f3;&#x30d4;&#x30e5;&#x30fc;&#x30bf;&#x30fc;\kbuchi &#x306e; iPhone\Internal Storage\DCIM\100APPLE">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#006699" CREATED="1454020416838" ID="ID_1457423240" MODIFIED="1454280831410" TEXT="&#x30d7;&#x30ec;&#x30d3;&#x30e5;&#x30fc;&#x3000;=&gt;&#x3000;File &gt; kbuchi&#x306e;iphone&#x304b;&#x3089;&#x8aad;&#x307f;&#x8fbc;&#x3080;"/>
+</node>
+<node CREATED="1446798572544" FOLDED="true" ID="ID_104790939" MODIFIED="1454280865569" TEXT="to">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#990000" CREATED="1448618159930" ID="ID_1712100344" MODIFIED="1454280831410" TEXT="C:\WORKS\Storage\images\iphone\tmp">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#006699" CREATED="1453692343557" ID="ID_1677422495" LINK="/Users/mac/Desktop/works/storage/images/from_iphone" MODIFIED="1454280831409" TEXT="/Users/mac/Desktop/works/storage/images/from_iphone"/>
+</node>
+<node CREATED="1446937352281" FOLDED="true" ID="ID_968621976" MODIFIED="1454280865572" TEXT="file">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1446955256301" FOLDED="true" ID="ID_270925941" MODIFIED="1454280865570" TEXT="up to =&gt;">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#006699" CREATED="1447023853791" ID="ID_1863033493" MODIFIED="1454280831409" TEXT="2016&#x5e74;1&#x6708;17&#x65e5;&#x65e5;&#x66dc;&#x65e5; 15:53">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1446955265440" FOLDED="true" ID="ID_1420685106" MODIFIED="1454280865571" TEXT="num =&gt;">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#006699" CREATED="1446937365794" ID="ID_12715424" MODIFIED="1454280831409" TEXT="67">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1446937380432" ID="ID_1159955037" MODIFIED="1454280831409" TEXT="done =&gt;">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1452926191008" ID="ID_1682441351" MODIFIED="1454280868706" TEXT="1-2">
+<font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="flag-blue"/>
+<node CREATED="1452926193368" ID="ID_1010687015" MODIFIED="1454280831409" TEXT="change file names">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#ff0000" CREATED="1452926353825" FOLDED="true" ID="ID_702689671" MODIFIED="1454280834276" TEXT="1">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#ff0000" CREATED="1452926377112" ID="ID_936798766" MODIFIED="1454280831409" TEXT="pushd C:\WORKS\WS\Eclipse_Luna\Cake_IFM11">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#ff0000" CREATED="1452926355064" ID="ID_1788374237" MODIFIED="1454280831409" TEXT="java -cp &quot;.;lib/data/java/*&quot;  MyTest_iPhone">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#ff0000" CREATED="1452926355064" ID="ID_1553483807" MODIFIED="1454280831409" TEXT="javac MyTest_iPhone.java &amp;&amp; java -cp &quot;.;lib/data/java/*&quot;  MyTest_iPhone">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1452985156881" FOLDED="true" ID="ID_1523299460" MODIFIED="1454280834276" TEXT="=&gt; target directory">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#ff0000" CREATED="1452985165868" ID="ID_447558784" MODIFIED="1454280831408" TEXT="C:\WORKS\Storage\images\iphone\tmp">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1453782271200" FOLDED="true" ID="ID_425759181" MODIFIED="1454280834278" TEXT="1">
+<node CREATED="1453782272931" ID="ID_1531050532" MODIFIED="1454280831408" TEXT="move &quot;IMG...&quot; files"/>
+<node CREATED="1453782389929" FOLDED="true" ID="ID_696259298" MODIFIED="1454280834277" TEXT="from">
+<node COLOR="#006699" CREATED="1453692343557" ID="ID_225751775" LINK="/Users/mac/Desktop/works/storage/images/from_iphone" MODIFIED="1454280831408" TEXT="/Users/mac/Desktop/works/storage/images/from_iphone"/>
+</node>
+<node CREATED="1453782391589" FOLDED="true" ID="ID_469881833" MODIFIED="1454280834277" TEXT="to">
+<node COLOR="#006699" CREATED="1453782394606" ID="ID_1477410251" LINK="/Users/mac/Desktop/works/storage/images/from_iphone/tmp" MODIFIED="1454280831407" TEXT="/Users/mac/Desktop/works/storage/images/from_iphone/tmp"/>
+</node>
+</node>
+<node CREATED="1453784354396" FOLDED="true" ID="ID_168217746" MODIFIED="1454280834278" TEXT="2">
+<node CREATED="1453784355492" ID="ID_1811278938" MODIFIED="1454280831407" TEXT="execute command"/>
+<node COLOR="#006699" CREATED="1453784386032" ID="ID_1124088859" MODIFIED="1454280831407" TEXT="pushd /Users/mac/Desktop/works/WS/WS_Eclipse/JavaFor_CakeIFM11/bin"/>
+<node COLOR="#006699" CREATED="1453784502753" ID="ID_1970762999" MODIFIED="1454280831404" TEXT="java cakeifm.main.Change_FileName"/>
+</node>
+</node>
+<node CREATED="1452926399585" ID="ID_1301868075" MODIFIED="1454283518286" TEXT="1-3">
+<font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="flag-blue"/>
+<node CREATED="1452926401658" ID="ID_1252337171" MODIFIED="1454280831403" TEXT="move renamed files">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1452926406071" FOLDED="true" ID="ID_1976469059" MODIFIED="1454283518034" TEXT="from">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#ff0000" CREATED="1452926411179" ID="ID_1217284465" MODIFIED="1454280831403" TEXT="C:\WORKS\Storage\images\iphone\tmp">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#006699" CREATED="1453782394606" ID="ID_615539128" LINK="/Users/mac/Desktop/works/storage/images/from_iphone/tmp" MODIFIED="1454280831403" TEXT="/Users/mac/Desktop/works/storage/images/from_iphone/tmp"/>
+</node>
+<node CREATED="1452926407577" FOLDED="true" ID="ID_759703156" MODIFIED="1454283518034" TEXT="to">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#ff0000" CREATED="1452926436102" ID="ID_336998963" MODIFIED="1454280831403" TEXT="C:\Users\kbuchi\Desktop\data\images\iphone\">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#006699" CREATED="1453782394606" ID="ID_1383165671" LINK="/Users/mac/Desktop/works/storage/images/from_iphone/renamed" MODIFIED="1454280831402" TEXT="/Users/mac/Desktop/works/storage/images/from_iphone/renamed"/>
+</node>
+</node>
+<node CREATED="1452926579823" FOLDED="true" ID="ID_12403230" MODIFIED="1454283514694" TEXT="1-4">
+<font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="flag-blue"/>
+<node CREATED="1452926585577" FOLDED="true" ID="ID_1600513416" MODIFIED="1454283514691" TEXT="insert new data">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1452927292328" ID="ID_1970268924" MODIFIED="1454280831402" TEXT="=&gt; to sqlite db">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1452926592384" FOLDED="true" ID="ID_1213848337" MODIFIED="1454283514692" TEXT="1">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#ff0000" CREATED="1452926908825" ID="ID_638238291" LINK="http://localhost/Eclipse_Luna/Cake_IFM11/images/manage_IPhone_ImageFiles?db_file=ifm11_backup_20160110_080900.bk" MODIFIED="1454280831395" TEXT="http://localhost/Eclipse_Luna/Cake_IFM11/images/manage_IPhone_ImageFiles?db_file=ifm11_backup_20160110_080900.bk">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#006699" CREATED="1454024422801" ID="ID_1302488898" MODIFIED="1454280831390" TEXT="http://localhost:8888/Cake_IFM11/images/manage_IPhone_ImageFiles__OnMac?db_file=ifm11_backup_20160110_080900.bk"/>
+</node>
+<node CREATED="1452994922511" FOLDED="true" ID="ID_1477525754" MODIFIED="1454283514694" TEXT="2">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1452994923824" ID="ID_1782014718" MODIFIED="1454280831385" TEXT="validate">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1452994925389" FOLDED="true" ID="ID_1408770318" MODIFIED="1454283514692" TEXT="1">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#ff0000" CREATED="1446871306473" ID="ID_521395019" LINK="C:\WORKS\Programs\SqliteBrowser3\bin\sqlitebrowser.exe" MODIFIED="1454280831384" TEXT="browser">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#006699" CREATED="1453785367315" ID="ID_804744386" LINK="/Applications/sqlitebrowser.app/Contents/MacOS/sqlitebrowser" MODIFIED="1454280831384" TEXT="/Applications/sqlitebrowser.app/Contents/MacOS/sqlitebrowser">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1446705623544" ID="ID_705683163" MODIFIED="1454280831384" TEXT="C:\WORKS\WS\Eclipse_Luna\Cake_IFM11\app\Lib\data">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1454024480693" FOLDED="true" ID="ID_1697627371" MODIFIED="1454283514693" TEXT="1-2">
+<node CREATED="1454024484785" ID="ID_1597974646" MODIFIED="1454280831384" TEXT="open file"/>
+<node COLOR="#006699" CREATED="1453789618086" ID="ID_1596608367" MODIFIED="1454280831383" TEXT="/Users/mac/Desktop/works/WS/Cake_IFM11/app/Lib/data"/>
+</node>
+<node CREATED="1452994926405" FOLDED="true" ID="ID_1013571374" MODIFIED="1454283514693" TEXT="2">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#006699" CREATED="1452995059260" ID="ID_822044844" MODIFIED="1454280831383" TEXT="SELECT * FROM ifm11 WHERE file_name LIKE &quot;2016-01-17_14%&quot;;">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#006699" CREATED="1452995114588" ID="ID_176830946" MODIFIED="1454280831383" TEXT="=&gt; &quot;22 Rows returned&quot;">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1452844746757" FOLDED="true" ID="ID_1192843270" MODIFIED="1454282708352" TEXT="3">
+<font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="button_ok"/>
+<node CREATED="1452228970855" FOLDED="true" ID="ID_114960772" MODIFIED="1454282708349" TEXT="add memos to =&gt;">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1452228979032" ID="ID_848385732" MODIFIED="1454280831383" TEXT="iphone files">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1447971994281" ID="ID_1690252316" MODIFIED="1454280831383" TEXT="=&gt; new ones">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1446870216929" FOLDED="true" ID="ID_279543504" MODIFIED="1454281029339" STYLE="fork" TEXT="1">
+<font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="button_ok"/>
+<node CREATED="1452927096865" FOLDED="true" ID="ID_597804212" MODIFIED="1454281029336" TEXT="1">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1452927083056" FOLDED="true" ID="ID_553648759" MODIFIED="1454281029336" TEXT="open page">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#ff0000" CREATED="1446855052701" ID="ID_1438386205" LINK="http://localhost/Eclipse_Luna/Cake_IFM11/images/image_manager" MODIFIED="1454280831382" TEXT="http://localhost/Eclipse_Luna/Cake_IFM11/images/image_manager">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#006699" CREATED="1453784723750" ID="ID_1660924287" LINK="http://localhost:8888/Cake_IFM11/images/image_manager" MODIFIED="1454280831382" TEXT="http://localhost:8888/Cake_IFM11/images/image_manager"/>
+</node>
+</node>
+<node CREATED="1452927100000" FOLDED="true" ID="ID_1527242412" MODIFIED="1454281029337" TEXT="2">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#ff0000" CREATED="1450919528720" ID="ID_1958861529" LINK="C:\WORKS\WS\Eclipse_Luna\Cake_IFM11\edit_memo.txt" MODIFIED="1454280831382" TEXT="memo patterns">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#006699" CREATED="1450919528720" ID="ID_96660771" LINK="/Users/mac/Desktop/works/WS/Cake_IFM11/edit_memo.txt" MODIFIED="1454280831382" TEXT="memo patterns">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1453784737236" FOLDED="true" ID="ID_911800188" MODIFIED="1454281029338" TEXT="3">
+<node CREATED="1453784739401" FOLDED="true" ID="ID_1574716892" LINK="http://benfranklin.chips.jp/cake_apps/images/ifm11/" MODIFIED="1454281029337" TEXT="remote image files directory">
+<node CREATED="1453846244292" ID="ID_210091729" MODIFIED="1454280831381" TEXT="http://benfranklin.chips.jp/cake_apps/images/ifm11/"/>
+</node>
+</node>
+</node>
+<node CREATED="1449784294504" FOLDED="true" ID="ID_1426178145" MODIFIED="1454282708350" TEXT="1-2">
+<font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="button_ok"/>
+<node CREATED="1449784296353" FOLDED="true" ID="ID_685774620" MODIFIED="1454282708349" TEXT="open image files">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#ff0000" CREATED="1449785339738" ID="ID_1097148404" LINK="C:\Users\kbuchi\Desktop\data\images\iphone" MODIFIED="1454280831381" TEXT="C:\Users\kbuchi\Desktop\data\images\iphone">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#006699" CREATED="1453782394606" ID="ID_725325911" LINK="/Users/mac/Desktop/works/storage/images/from_iphone/renamed" MODIFIED="1454280831380" TEXT="/Users/mac/Desktop/works/storage/images/from_iphone/renamed"/>
+</node>
+</node>
+<node CREATED="1446870220073" FOLDED="true" ID="ID_118856575" MODIFIED="1454282384967" STYLE="fork" TEXT="2">
+<font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="button_ok"/>
+<node CREATED="1446857017417" ID="ID_1570721369" MODIFIED="1454280831380" TEXT="edit memos">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1452995332109" FOLDED="true" ID="ID_1895338606" MODIFIED="1454282384966" TEXT="from">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#ff0000" CREATED="1452995334221" ID="ID_215407852" MODIFIED="1454281086235" TEXT="2016-01-14_08-04-46_000.jpg ">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1452997408933" FOLDED="true" ID="ID_1688860217" MODIFIED="1454282384967" TEXT="to">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#006699" CREATED="1452997411476" ID="ID_1855085311" MODIFIED="1454282381205" TEXT=" 2016-01-17_14-59-26_000.jpg ">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1453785345205" FOLDED="true" ID="ID_1808827498" MODIFIED="1454282436665" TEXT="2-1">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1453785347141" ID="ID_549430454" MODIFIED="1454280831380" TEXT="count how many updates"/>
+<node CREATED="1453785353680" FOLDED="true" ID="ID_1026861004" MODIFIED="1454282436662" TEXT="1">
+<node CREATED="1453785356454" ID="ID_564373941" MODIFIED="1454280831380" TEXT="open browser"/>
+<node CREATED="1453785367315" ID="ID_1905974174" LINK="/Applications/sqlitebrowser.app/Contents/MacOS/sqlitebrowser" MODIFIED="1454280831379" TEXT="/Applications/sqlitebrowser.app/Contents/MacOS/sqlitebrowser">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1453789614143" FOLDED="true" ID="ID_1438941159" MODIFIED="1454282436663" TEXT="1-2">
+<node CREATED="1453789615753" ID="ID_1387182828" MODIFIED="1454280831379" TEXT="open file"/>
+<node COLOR="#006699" CREATED="1453789618086" ID="ID_1552668000" MODIFIED="1454280831379" TEXT="/Users/mac/Desktop/works/WS/Cake_IFM11/app/Lib/data"/>
+</node>
+<node CREATED="1453785355063" FOLDED="true" ID="ID_1441636515" MODIFIED="1454282436664" TEXT="2">
+<node COLOR="#ff0000" CREATED="1452995631206" ID="ID_1033716234" MODIFIED="1454280831379" TEXT="SELECT * FROM ifm11 WHERE modified_at LIKE &quot;2016/01/26%&quot;;">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#006699" CREATED="1450305597318" ID="ID_1089578805" MODIFIED="1454282432062" TEXT="26">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1446870228377" FOLDED="true" ID="ID_1775548343" MODIFIED="1454282708351" STYLE="fork" TEXT="3">
+<font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="button_ok"/>
+<node CREATED="1446857022668" FOLDED="true" ID="ID_1813438567" MODIFIED="1454282708351" TEXT="delete">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1446857026369" FOLDED="true" ID="ID_1899113422" MODIFIED="1454282708350" TEXT="image files">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1446857860809" ID="ID_459322145" MODIFIED="1454280831379" TEXT="memo-ed with &quot;-*&quot;">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1446870240025" FOLDED="true" ID="ID_861345207" MODIFIED="1454282703947" TEXT="4">
+<font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="button_ok"/>
+<node CREATED="1446857043093" FOLDED="true" ID="ID_443180270" MODIFIED="1454282703941" TEXT="delete">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1446857051986" FOLDED="true" ID="ID_1941958362" MODIFIED="1454282703940" TEXT="from db table">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1446857045349" ID="ID_181931369" MODIFIED="1454280831378" TEXT="&quot;-*&quot; items">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1446871301121" FOLDED="true" ID="ID_640094052" MODIFIED="1454282703942" TEXT="0">
+<font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="button_ok"/>
+<node CREATED="1446871303329" FOLDED="true" ID="ID_255981615" MODIFIED="1454282703941" TEXT="start">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#ff0000" CREATED="1446871306473" ID="ID_1788558510" LINK="C:\WORKS\Programs\SqliteBrowser3\bin\sqlitebrowser.exe" MODIFIED="1454280831378" TEXT="browser">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#006699" CREATED="1453785367315" ID="ID_1990145471" LINK="/Applications/sqlitebrowser.app/Contents/MacOS/sqlitebrowser" MODIFIED="1454280831377" TEXT="/Applications/sqlitebrowser.app/Contents/MacOS/sqlitebrowser">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1446871309249" FOLDED="true" ID="ID_1382486730" MODIFIED="1454282703943" TEXT="0-2">
+<font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="button_ok"/>
+<node CREATED="1446871312185" FOLDED="true" ID="ID_1034810139" MODIFIED="1454282703942" TEXT="open file">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#ff0000" CREATED="1446705623544" ID="ID_1860113523" MODIFIED="1454280831377" TEXT="C:\WORKS\WS\Eclipse_Luna\Cake_IFM11\app\Lib\data">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#006699" CREATED="1453785704834" ID="ID_595240187" MODIFIED="1454280831377" TEXT="/Users/mac/Desktop/works/WS/Cake_IFM11/app/Lib/data/"/>
+</node>
+</node>
+<node CREATED="1446857760621" FOLDED="true" ID="ID_348975348" MODIFIED="1454282703944" TEXT="1">
+<font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="button_ok"/>
+<node CREATED="1446857717832" ID="ID_1706706275" MODIFIED="1454280831377" TEXT="SELECT * FROM ifm11 WHERE memos LIKE &quot;-*%&quot;;">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#006699" CREATED="1446857751359" FOLDED="true" ID="ID_879628317" MODIFIED="1454282703943" TEXT="=&gt; ">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#006699" CREATED="1447107226171" ID="ID_431439000" MODIFIED="1454282659090" TEXT="17">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1446857761346" FOLDED="true" ID="ID_256466722" MODIFIED="1454282703946" TEXT="2">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1446857766690" ID="ID_24737018" MODIFIED="1454280831377" TEXT="delete">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1447289388171" FOLDED="true" ID="ID_71119038" MODIFIED="1454282703944" TEXT="1">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1446800711464" ID="ID_1188788589" MODIFIED="1454280831376" TEXT="DELETE  FROM ifm11 WHERE memos LIKE &quot;-*%&quot;;">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1447289389536" FOLDED="true" ID="ID_919546630" MODIFIED="1454282703945" TEXT="2">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1446857717832" FOLDED="true" ID="ID_1464951953" MODIFIED="1454282703945" TEXT="SELECT * FROM ifm11 WHERE memos LIKE &quot;-*%&quot;;">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#006699" CREATED="1446857841743" ID="ID_1261263545" MODIFIED="1454280831376" TEXT="=&gt; 0 row">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1446857892170" FOLDED="true" ID="ID_216220386" MODIFIED="1454282703946" TEXT="3">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1446857894587" ID="ID_1837970713" MODIFIED="1454280831376" TEXT="close file">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1447974829969" ID="ID_547198266" MODIFIED="1454283019635" TEXT="4">
+<font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="button_ok"/>
+<node CREATED="1446858043984" FOLDED="true" ID="ID_1454144831" MODIFIED="1454283019037" TEXT="upload =&gt; edited db file">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#006699" CREATED="1447057004007" FOLDED="true" ID="ID_848331056" MODIFIED="1454283019036" TEXT="=&gt;">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#ff0000" CREATED="1447057016511" ID="ID_764716711" MODIFIED="1454280831376" TEXT="ifm11_backup_20151211_064839.bk">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1446858116854" FOLDED="true" ID="ID_1064521886" MODIFIED="1454283019040" TEXT="1">
+<font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="button_ok"/>
+<node CREATED="1446858119606" ID="ID_592745587" MODIFIED="1454280831376" TEXT="upload">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1446858207094" FOLDED="true" ID="ID_1793251391" MODIFIED="1454282797632" TEXT="1">
+<font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="button_ok"/>
+<node CREATED="1452383527897" FOLDED="true" ID="ID_703976812" MODIFIED="1454282797630" TEXT="1">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1446709106817" FOLDED="true" ID="ID_618211899" MODIFIED="1454282797629" TEXT="from">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#ff0000" CREATED="1446705623544" ID="ID_724679" MODIFIED="1454280831375" TEXT="C:\WORKS\WS\Eclipse_Luna\Cake_IFM11\app\Lib\data">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#006699" CREATED="1453789811676" ID="ID_389671454" MODIFIED="1454280831375" TEXT="/Users/mac/Desktop/works/WS/Cake_IFM11/app/Lib/data/"/>
+</node>
+<node CREATED="1446709108297" FOLDED="true" ID="ID_402765186" MODIFIED="1454282797630" TEXT="to">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#006699" CREATED="1446709475548" ID="ID_473063742" MODIFIED="1454280831375" TEXT="/cake_apps/Cake_IFM11/app/Lib/data">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1452383533648" FOLDED="true" ID="ID_1110469144" MODIFIED="1454282797632" TEXT="2">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1452383535057" ID="ID_1224157140" MODIFIED="1454280831375" TEXT="operation">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1452383549464" FOLDED="true" ID="ID_373897995" MODIFIED="1454282797631" TEXT="1">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1452383552632" ID="ID_1202425783" MODIFIED="1454280831375" TEXT="select file">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1452383550408" FOLDED="true" ID="ID_454715685" MODIFIED="1454282797631" TEXT="2">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1452383555920" ID="ID_1434526164" MODIFIED="1454280831375" TEXT="right click + &quot;f&quot;">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1452383550936" FOLDED="true" ID="ID_714892047" MODIFIED="1454282797631" TEXT="3">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1452383555920" ID="ID_1867458749" MODIFIED="1454280831375" TEXT="right click + &quot;u&quot;">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1446858210157" FOLDED="true" ID="ID_1659361161" MODIFIED="1454283019038" TEXT="2">
+<font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="button_ok"/>
+<node CREATED="1446858199894" FOLDED="true" ID="ID_1812573157" MODIFIED="1454283019038" TEXT="started">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1453848862939" ID="ID_1558512689" MODIFIED="1454280831374" TEXT="&quot;upload if newer&quot;"/>
+<node CREATED="1454282761226" ID="ID_1933371298" MODIFIED="1454282781950" TEXT="&quot;current queue only&quot;"/>
+<node COLOR="#006699" CREATED="1446936779104" FOLDED="true" ID="ID_718764109" MODIFIED="1454283019037" TEXT="=&gt;">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#006699" CREATED="1447056974999" ID="ID_263739803" MODIFIED="1454282792399" TEXT="0826">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1446858213326" FOLDED="true" ID="ID_1877917297" MODIFIED="1454283019040" TEXT="3">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1446858214486" FOLDED="true" ID="ID_345509894" MODIFIED="1454283019040" TEXT="complete">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#006699" CREATED="1446936779104" FOLDED="true" ID="ID_1265214991" MODIFIED="1454283019039" TEXT="=&gt;">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#006699" CREATED="1447107530307" FOLDED="true" ID="ID_1477772830" MODIFIED="1454283019039" TEXT="~">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#006699" CREATED="1447107534429" ID="ID_852298898" MODIFIED="1454282908881" TEXT="0828">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1446858125598" FOLDED="true" ID="ID_851860556" MODIFIED="1454283019043" TEXT="2">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1446449587916" FOLDED="true" ID="ID_1992106630" MODIFIED="1454283019042" TEXT="add data">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#006699" CREATED="1446449590852" ID="ID_1444604899" LINK="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/add_From_DB_File?command=GO" MODIFIED="1454280831373" TEXT="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/add_From_DB_File?command=GO">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node BACKGROUND_COLOR="#333300" CREATED="1446449590852" ID="ID_1387911355" LINK="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/add_From_DB_File" MODIFIED="1454280831373" STYLE="fork" TEXT="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/add_From_DB_File">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1446871632329" FOLDED="true" ID="ID_1784948245" MODIFIED="1454283019041" TEXT="result">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#006699" CREATED="1447056988264" FOLDED="true" ID="ID_1241368568" MODIFIED="1454283019041" TEXT="=&gt;">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#ff0000" CREATED="1447896530005" ID="ID_994170201" MODIFIED="1454280831337" TEXT="&apos;total_data&apos; =&gt; (int) 482,&#xa;&#x9;&apos;new_data_Success&apos; =&gt; (int) 0,&#xa;&#x9;&apos;new_data_Failed&apos; =&gt; (int) 0,&#xa;&#x9;&apos;existing_data_Success&apos; =&gt; (int) 0,&#xa;&#x9;&apos;existing_data_Failed&apos; =&gt; (int) 482">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1453790279384" FOLDED="true" ID="ID_926709353" MODIFIED="1454283019042" TEXT="=&gt; &quot;existing_data_Success&quot;">
+<node COLOR="#990000" CREATED="1453790284593" ID="ID_1140819935" MODIFIED="1454280831336" TEXT="--&gt; &quot;0&quot;, which should be more than 0"/>
+</node>
+</node>
+<node CREATED="1446858128846" FOLDED="true" ID="ID_640040483" MODIFIED="1454283019046" TEXT="3">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1446709650267" FOLDED="true" ID="ID_1404841340" MODIFIED="1454283019046" TEXT="validate">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1446709655924" FOLDED="true" ID="ID_959452068" MODIFIED="1454283019045" TEXT="=&gt; browse pages">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1446709937777" ID="ID_1750838659" LINK="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index" MODIFIED="1454280831335" TEXT="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1446871646865" FOLDED="true" ID="ID_1107648308" MODIFIED="1454283019045" TEXT="search by file name">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#006699" CREATED="1446871653313" FOLDED="true" ID="ID_1297981035" MODIFIED="1454283019044" TEXT="--&gt;">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#006699" CREATED="1447057091296" ID="ID_1189390334" MODIFIED="1454282986330" TEXT="2016-01-17_14">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1452844714372" FOLDED="true" ID="ID_1822637327" MODIFIED="1454283475880" TEXT="4-2">
+<font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="yes"/>
+<node CREATED="1452844762077" ID="ID_1830595166" MODIFIED="1454280831335" TEXT="upload image files">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1452998158821" FOLDED="true" ID="ID_639368564" MODIFIED="1454283471257" TEXT="1">
+<font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="button_ok"/>
+<node CREATED="1454283234283" FOLDED="true" ID="ID_1717850069" MODIFIED="1454283396210" TEXT="move">
+<node CREATED="1448618227563" FOLDED="true" ID="ID_950094605" MODIFIED="1454283396209" TEXT="from">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#ff0000" CREATED="1446709571230" ID="ID_1302777238" MODIFIED="1454280831335" TEXT="C:\Users\kbuchi\Desktop\data\images\iphone_to_upload\">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#006699" CREATED="1453782394606" ID="ID_263314867" LINK="/Users/mac/Desktop/works/storage/images/from_iphone/renamed" MODIFIED="1454280831402" TEXT="/Users/mac/Desktop/works/storage/images/from_iphone/renamed"/>
+</node>
+<node CREATED="1446854833725" FOLDED="true" ID="ID_1750679941" MODIFIED="1454283396210" TEXT="to">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#006699" CREATED="1454283254599" ID="ID_56815878" MODIFIED="1454283258458" TEXT="/Users/mac/Desktop/works/storage/images/from_iphone/upload_items/"/>
+</node>
+</node>
+</node>
+<node CREATED="1454283260698" FOLDED="true" ID="ID_152765229" MODIFIED="1454283471261" TEXT="1-2">
+<icon BUILTIN="yes"/>
+<node CREATED="1454283266127" FOLDED="true" ID="ID_1508215786" MODIFIED="1454283471259" TEXT="upload">
+<node CREATED="1448618227563" FOLDED="true" ID="ID_502702844" MODIFIED="1454283471258" TEXT="from">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#006699" CREATED="1454283254599" ID="ID_511812889" MODIFIED="1454283284728" TEXT="/Users/mac/Desktop/works/storage/images/from_iphone/upload_items/"/>
+</node>
+<node CREATED="1446854833725" FOLDED="true" ID="ID_422613772" MODIFIED="1454283471259" TEXT="to">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#006699" CREATED="1446854835593" ID="ID_1638754346" MODIFIED="1454280831335" TEXT="/cake_apps/images/ifm11">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1452998126637" FOLDED="true" ID="ID_734751402" MODIFIED="1454283471260" TEXT="up to =&gt;">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#006699" CREATED="1452998129581" ID="ID_1233478067" MODIFIED="1454283339220" TEXT="2016-01-17_14-59-51_000.jpg">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#006699" CREATED="1452998140317" ID="ID_102808387" MODIFIED="1454283347255" TEXT="13 files">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1453103654694" FOLDED="true" ID="ID_1250675069" MODIFIED="1454283471260" TEXT="started =&gt;">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#006699" CREATED="1453103674736" ID="ID_972827940" MODIFIED="1454283368774" TEXT="0836">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1453103654694" ID="ID_147550311" MODIFIED="1454283383447" TEXT="ended =&gt;">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1452998191069" FOLDED="true" ID="ID_1723346168" MODIFIED="1454283471263" TEXT="3">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1452998192406" ID="ID_829659565" MODIFIED="1454280831334" TEXT="move files">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1448618227563" FOLDED="true" ID="ID_4081084" MODIFIED="1454283471262" TEXT="from">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#ff0000" CREATED="1446709571230" ID="ID_1683425447" MODIFIED="1454280831334" TEXT="C:\Users\kbuchi\Desktop\data\images\to_upload\">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#006699" CREATED="1454283254599" ID="ID_1262647151" MODIFIED="1454283284728" TEXT="/Users/mac/Desktop/works/storage/images/from_iphone/upload_items/"/>
+</node>
+<node CREATED="1446854833725" FOLDED="true" ID="ID_1758940757" MODIFIED="1454283471262" TEXT="to">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#006699" CREATED="1446854835593" ID="ID_1436632152" MODIFIED="1454283435509" TEXT="/Users/mac/Desktop/works/storage/images/from_iphone/upload_done/">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1452998219061" FOLDED="true" ID="ID_1675859527" MODIFIED="1454283471264" TEXT="4">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1452998220343" FOLDED="true" ID="ID_1313891426" MODIFIED="1454283471263" TEXT="close">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1452998222095" ID="ID_1180082280" MODIFIED="1454280831333" TEXT="=&gt; FileZilla">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1447028391133" ID="ID_1611428124" MODIFIED="1454283444650" TEXT="5">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1447028392670" ID="ID_150828101" MODIFIED="1454280831333" TEXT="closing">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1447028394430" ID="ID_264716846" MODIFIED="1454291609320" TEXT="1">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1447107961251" ID="ID_1205528945" MODIFIED="1454280831331" TEXT="git">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1447107965027" ID="ID_1405003516" MODIFIED="1454291609326" TEXT="1">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1447028444540" ID="ID_359173737" MODIFIED="1454280831330" TEXT="commit">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1447107965708" ID="ID_93455186" MODIFIED="1454291609328" TEXT="2">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1447028503540" ID="ID_1682411394" MODIFIED="1454280831330" TEXT="push">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1447028428020" ID="ID_1440367326" MODIFIED="1454291609330" TEXT="2">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1447028404221" ID="ID_1050640811" MODIFIED="1454291609331" TEXT="close apps">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#ff0000" CREATED="1447557920817" ID="ID_916447946" MODIFIED="1454280831330" TEXT="=&gt; if uploading is done">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1447028406613" ID="ID_346700505" MODIFIED="1454291609332" TEXT="C:\WORKS\WS\Eclipse_Luna\Cake_IFM11">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1447028409230" ID="ID_491929575" MODIFIED="1454280831330" TEXT="d">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1454291614131" ID="ID_855022505" MODIFIED="1454291691345" TEXT="pushd /Users/mac/Desktop/works/WS/Cake_IFM11"/>
+<node CREATED="1454291692195" ID="ID_844217924" MODIFIED="1454305324368" TEXT="./d.bat"/>
+</node>
+<node CREATED="1447028569572" ID="ID_1694801211" MODIFIED="1454291609334" TEXT="3">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1447028570933" ID="ID_1828574973" MODIFIED="1454291609336" TEXT="close">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1447028572373" ID="ID_359019331" MODIFIED="1454280831330" TEXT="=&gt; browser pages">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1447028595989" ID="ID_1458689372" MODIFIED="1454291609337" TEXT="4">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1447028597733" ID="ID_35994902" MODIFIED="1454291609338" TEXT="record time">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1447028603022" ID="ID_1377957747" MODIFIED="1454280831329" TEXT="=&gt; TA2">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+</node>
+</node>
 </node>
 </node>
 <node CREATED="1409569997691" ID="ID_94862105" MODIFIED="1454024391025" TEXT="D-18">
