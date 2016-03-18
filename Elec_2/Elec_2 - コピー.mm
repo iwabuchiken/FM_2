@@ -5465,10 +5465,6 @@
 <node CREATED="1437139217039" ID="ID_303305502" LINK="http://ecwkit.nomaki.jp/shiryou/small/small.htm" MODIFIED="1437868339943" TEXT="list of tuts"/>
 <node CREATED="1438238975009" ID="ID_78548577" LINK="http://homepage3.nifty.com/kanasho/index.htm" MODIFIED="1438238977783" TEXT="list"/>
 <node CREATED="1438398500656" ID="ID_1186059199" LINK="http://www.ele-lab.com/usonic_taiken8.html" MODIFIED="1438398503538" TEXT="list"/>
-
-</node>
-
-</node>
 </node>
 </node>
 </node>
